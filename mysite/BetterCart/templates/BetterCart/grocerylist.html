@@ -7,7 +7,12 @@
 <body>
     <h1>Grocery List</h1>
     {% for item in items%}
+        <li> {{item.item_name}}</li>
         <li> {{item.calories}}</li>
+        <li> {{item.saturated_fat}}</li>
+        <li> {{item.trans_fat}}</li>
+        <li> {{item.carbs}}</li>
+        <li> {{item.protein}}</li>
     {% endfor %}
 </body>
 </html>
