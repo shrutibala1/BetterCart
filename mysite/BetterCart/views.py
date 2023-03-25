@@ -1,8 +1,10 @@
-from django.shortcuts import render,redirect
-
-# Create your views here.
+from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from .models import GroceryItem
+import requests
+from bs4 import BeautifulSoup
+from .scraper import scrape_foodsubs
+
 
 
 def index(request):
@@ -12,7 +14,8 @@ def index(request):
 def display_grocery(request):
     items = GroceryItem.objects.all()
     print("in function")
-    return render(request, "BetterCart/grocerylist.html", {"items":items})
+    return render(request, "BetterCart/grocerylist.html", {"items": items})
+
 
 def addItemView(request):
     print("in add item views")
@@ -25,5 +28,26 @@ def addItemView(request):
     # else:
     #     return render(request, 'add_grocery_item.html')
 
+
+def addItemFilledView(request):
+    print("in add item (filled) views")
+    return render(request, 'BetterCart/add_grocery_filled_item.html')
+
+
 def finalizeListView(request):
     print("in finalize List View")
+
+
+def ingredient_search(request):
+    return render(request, 'BetterCart/ingredient_search.html')
+
+
+
+def ingredient_search(request):
+    if request.method == 'POST':
+        search_term = request.POST['search_term']
+        urls = scrape_foodsubs(search_term)
+        context = {'urls': urls, 'search_term': search_term}
+        return render(request, 'BetterCart/ingredient_search_results.html', context)
+    else:
+        return render(request, 'BetterCart/ingredient_search_form.html')
