@@ -1,8 +1,27 @@
+{% extends 'BetterCart/base.html' %}
 {% block content %}
-    <h1>Search Results for "{{ search_term }}"</h1>
-    <ul>
-        {% for url in urls %}
-            <li><a href="{{ url.href }}">{{ url.text }}</a></li>
-        {% endfor %}
-    </ul>
+<div class="container">
+    <h1 align = "center">Search Results</h1>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Item Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% if results %}
+<!--                <p>Nutriscores {{ context }}</p>-->
+                {% for result in results %}
+                    <tr>
+                        <td><a href="{% url 'recommendations' result %}">{{ result }}</a></td>
+                    </tr>
+                {% endfor %}
+            {% else %}
+                <tr>
+                    <td>No results found.</td>
+                </tr>
+            {% endif %}
+        </tbody>
+    </table>
+</div>
 {% endblock %}

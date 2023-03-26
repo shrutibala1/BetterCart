@@ -1,11 +1,11 @@
-{% extends "base.html" %}
+{% extends 'BetterCart/base.html' %}
 
 {% block content %}
     <h1>Ingredient Search</h1>
-    <form method="post">
+    <form method="post" action="{% url 'ingredient_search' %}">
         {% csrf_token %}
         <label for="search_term">Search for an ingredient:</label>
         <input type="text" id="search_term" name="search_term" required>
-        <input type="submit" value="Search">
+        <button type="submit">Search</button>
     </form>
 {% endblock %}

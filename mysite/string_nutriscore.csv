@@ -1,0 +1,8619 @@
+﻿str,nutri_scores
+"Butter, salted",e
+"Butter, whipped, with salt",e
+"Butter oil, anhydrous",e
+"Cheese, blue",e
+"Cheese, brick",d
+"Cheese, brie",d
+"Cheese, camembert",d
+"Cheese, caraway",d
+"Cheese, cheddar ",d
+"Cheese, cheshire",d
+"Cheese, colby",d
+"Cheese, cottage, creamed",b
+"Cheese, cottage, nonfat",b
+"Cheese, cottage, lowfat",a
+"Cheese, cream",b
+"Cheese, edam",a
+"Cheese, feta",d
+"Cheese, fontina",d
+"Cheese, gjetost",d
+"Cheese, gouda",d
+"Cheese, gruyere",d
+"Cheese, limburger",d
+"Cheese, monterey",d
+"Cheese, mozzarella, whole milk",d
+"Cheese, mozzarella, part skim milk",d
+"Cheese, mozzarella, low moisture",d
+"Cheese, muenster",d
+"Cheese, neufchatel",d
+"Cheese, parmesan, grated",d
+"Cheese, parmesan, hard",d
+"Cheese, port de salut",d
+"Cheese, provolone",e
+"Cheese, ricotta, whole milk",e
+"Cheese, ricotta, part skim milk",d
+"Cheese, romano",d
+"Cheese, roquefort",c
+"Cheese, swiss",b
+"Cheese, tilsit",e
+"Cheese, pasteurized process, American",e
+"Cheese, pasteurized process, pimento",c
+"Cheese, pasteurized process, swiss",d
+"Cheese food, cold pack, American",e
+"Cheese food, pasteurized process, American",e
+"Cheese food, pasteurized process, swiss",e
+"Cheese spread, pasteurized process, American",e
+"Cream, fluid, half and half",e
+"Cream, fluid, light ",e
+"Cream, fluid, light whipping",e
+"Cream, fluid, heavy whipping",c
+"Cream, whipped, cream topping",d
+"Cream, sour, reduced fat",d
+"Cream, sour, cultured",d
+Eggnog,d
+"Sour dressing, non-butterfat, cultured",c
+"Milk, filled, fluid",d
+"Cheese, American, nonfat or fat free",b
+"Yogurt, Greek, 2% fat",d
+"Yogurt, Greek, 2%fat",a
+"Cream substitute, liquid, with hydrogenated vegetable oil and soy protein",b
+"Cream substitute, liquid, with lauric acid oil and sodium caseinate",c
+"Cream substitute, powdered",c
+"Dessert topping, powdered",c
+"Dessert topping, powdered, 1.5 ounce prepared with 1/2 cup milk",e
+"Dessert topping, pressurized",e
+"Dessert topping, semi solid, frozen",d
+"Sour cream, imitation, cultured",d
+"Milk substitutes, fluid, with lauric acid oil",d
+"Milk, whole, 3.25% milkfat",d
+"Milk, producer, fluid",b
+"Milk, reduced fat, fluid",b
+"Milk, lowfat, fluid",b
+"Milk, nonfat, fluid",b
+"Milk, buttermilk, fluid",a
+"Milk, low sodium, fluid",b
+"Milk, dry, whole",a
+"Milk, dry, nonfat",a
+"Milk, buttermilk, dried",a
+"Milk, canned, condensed",a
+"Milk, canned, evaporated",a
+"Milk, chocolate, fluid",a
+"Milk, chocolate, lowfat",b
+"Milk, chocolate beverage, hot cocoa",b
+"Milk, goat, fluid",e
+"Milk, human, mature",d
+"Milk, indian buffalo, fluid",d
+"Milk, sheep, fluid",c
+"Milk shakes, thick chocolate",d
+"Milk shakes, thick vanilla",d
+"Whey, acid, fluid",c
+"Whey, acid, dried",a
+"Whey, sweet, fluid",c
+"Whey, sweet, dried",b
+"Yogurt, plain, whole milk",b
+"Yogurt, plain, low fat",b
+"Yogurt, plain, skim milk",b
+"Yogurt, vanilla, low fat.",c
+"Yogurt, fruit, low fat",c
+"Egg, whole, raw",b
+"Egg, white, raw",c
+"Egg, yolk, raw",c
+"Egg, whole, cooked",b
+"Egg, whole, dried",e
+"Egg, white, dried",b
+"Egg, yolk, dried",e
+"Egg, duck, whole",b
+"Egg, goose, whole",a
+"Egg, quail, whole",a
+"Egg, turkey, whole",b
+"Egg substitute, powder",c
+"Butter, without salt",c
+"Cheese, parmesan, shredded",a
+"Cheese, goat, hard type",b
+"Cheese, goat, semisoft type",a
+"Cheese, goat, soft type",c
+"Cheese substitute, mozzarella",c
+"Cheese sauce, prepared from recipe",c
+"Cheese, mexican, queso anejo",c
+"Cheese, mexican, queso asadero",b
+"Cheese, mexican, queso chihuahua",b
+"Cheese, low fat, cheddar or colby",b
+"Cheese, low-sodium, cheddar or colby",b
+"Milk, fluid, 1% fat",d
+"Sour cream, reduced fat",d
+"Sour cream, light",c
+"Sour cream, fat free",c
+"Yogurt, vanilla or lemon flavor, nonfat milk",d
+"Parmesan cheese topping, fat free",b
+"Cheese, cream, fat free",b
+"Yogurt, chocolate, nonfat milk",b
+KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce,b
+KRAFT CHEEZ WHIZ LIGHT Pasteurized Process Cheese Product,d
+KRAFT FREE Singles American Nonfat Pasteurized Process Cheese Product,d
+KRAFT VELVEETA Pasteurized Process Cheese Spread,e
+KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product,a
+KRAFT BREAKSTONE'S Reduced Fat Sour Cream,a
+KRAFT BREAKSTONE'S FREE Fat Free Sour Cream,b
+"Cream, half and half, fat free",d
+Reddi Wip Fat Free Whipped Topping,d
+"Yogurt, fruit, lowfat",d
+"Cheese, parmesan, dry grated",d
+"Cream substitute, flavored, liquid",d
+"Cream substitute, flavored, powdered",d
+"Cheese, provolone, reduced fat",d
+"Cheese, Mexican, blend",c
+"Cheese product, pasteurized process, American",e
+"Yogurt, fruit variety, nonfat",d
+"Yogurt, vanilla, low fat",d
+"Protein supplement, milk based, Muscle Milk",c
+"Protein supplement, milk based, Muscle Milk Light",c
+Dulce de Leche,b
+"Egg substitute, liquid or frozen, fat free",a
+"Cheese, dry white, queso seco",c
+"Cheese, fresh, queso fresco",b
+"Cheese, white, queso blanco",a
+"Yogurt, vanilla flavor, lowfat milk",c
+"Yogurt, frozen, flavors not chocolate",c
+"Ice cream, soft serve, chocolate",b
+"Ice cream, bar or stick, chocolate covered",d
+Ice cream sandwich,a
+Ice cream cookie sandwich,d
+"Ice cream cone, chocolate covered, with nuts",c
+"Ice cream sandwich, made with light ice cream, vanilla",b
+"Ice cream sandwich, vanilla, light",e
+"Fat free ice cream, no sugar added, flavors other than chocolate",d
+"Milk dessert bar, frozen, made from lowfat milk",c
+"Nutritional supplement for people with diabetes, liquid",e
+"Cheese, Mexican blend",d
+"Yogurt, Greek, plain",c
+"Cheese spread, American or Cheddar cheese base, reduced fat",b
+"Cheese, cheddar, reduced fat ",b
+"Ice cream, light, soft serve",c
+"Ice cream bar, stick or nugget, with crunch coating",b
+"Cheese, cheddar, nonfat or fat free",a
+"Cheese, Swiss, nonfat or fat free",d
+"Cheese, mexican, queso cotija",d
+"Cheese, cheddar, sharp",e
+"Yogurt, Greek, nonfat",d
+"Yogurt, Greek, strawberry",d
+"Yogurt, Greek, vanilla",d
+"Kefir, lowfat, plain",b
+"Kefir, lowfat, strawberry",e
+"Milk, evaporated, 2% fat",c
+"Milk, chocolate, fat free",d
+"Yogurt, Greek, fruit",c
+"Yogurt, vanilla, non-fat",c
+"Yogurt, frozen, flavors other than chocolate",c
+"Ice cream bar, covered with chocolate and nuts",a
+Ice cream sundae cone,b
+"Light ice cream, Creamsicle",a
+"Cream, half and half, lowfat",b
+"Ice cream, lowfat, no sugar added",b
+"Yogurt, Greek, whole",b
+"Yogurt, Greek, Blueberry",d
+"Butter, Clarified butter ",a
+"Spices, allspice, ground",e
+"Spices, anise seed",d
+"Spices, basil, dried",d
+"Spices, bay leaf",b
+"Spices, caraway seed",a
+"Spices, cardamom",a
+"Spices, celery seed",d
+"Spices, chervil, dried",d
+"Spices, chili powder",c
+"Spices, cinnamon, ground",c
+Cassia,d
+"Spices, cloves, ground",c
+"Spices, coriander leaf, dried",a
+Chinese parsley,a
+cilantro,a
+"Spices, coriander seed",a
+"Spices, cumin seed",d
+"Spices, curry powder",e
+"Spices, dill seed",e
+"Spices, dill weed, dried",e
+"Spices, fennel seed",c
+"Spices, fenugreek seed",a
+"Spices, garlic powder",c
+"Spices, ginger, ground",d
+"Spices, mace, ground",d
+"Spices, marjoram, dried",c
+"Spices, mustard seed, ground",d
+"Spices, nutmeg, ground",c
+"Spices, onion powder",c
+"Spices, oregano, dried",e
+"Spices, paprika",d
+"Spices, parsley, dried",d
+"Spices, pepper, black",a
+"Spices, pepper, red or cayenne",a
+"Spices, pepper, white",a
+"Spices, poppy seed",a
+"Spices, poultry seasoning",a
+"Spices, pumpkin pie spice",a
+"Spices, rosemary, dried",a
+"Spices, saffron",a
+"Spices, sage, ground",a
+"Spices, savory, ground",a
+"Spices, tarragon, dried",a
+"Spices, thyme, dried",a
+"Spices, turmeric, ground",a
+"Basil, fresh",c
+"Dill weed, fresh",a
+"Mustard, prepared, yellow",b
+"Salt, table",a
+"Vinegar, cider",a
+"Thyme, fresh",a
+Vanilla extract,a
+"Vanilla extract, imitation, alcohol",a
+"Vanilla extract, imitation, no alcohol",a
+"Vinegar, distilled",a
+"Capers, canned",a
+"Horseradish, prepared",a
+"Rosemary, fresh",a
+"Peppermint, fresh",c
+mint,a
+"Spearmint, fresh",a
+mint,c
+"Spearmint, dried",a
+mint,a
+"Vinegar, red wine",a
+"Vinegar, balsamic",b
+"Seasoning mix, dry, sazon",a
+"Seasoning mix, dry, taco",a
+"Seasoning mix, dry, chili",a
+"Fat, beef tallow",b
+Lard,a
+"Salad dressing, KRAFT Mayo Light Mayonnaise",c
+"Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing",c
+"Salad dressing, KRAFT MIRACLE WHIP FREE Nonfat Dressing",a
+"Salad dressing, russian dressing",b
+"Salad dressing, sesame seed dressing, regular",a
+"Salad dressing, thousand island, commercial",a
+"Salad dressing, mayonnaise type, regular",a
+"Salad dressing, french dressing, reduced fat",a
+"Salad dressing, italian dressing, commercial",a
+"Salad dressing, russian dressing, low calorie",a
+"Salad dressing, thousand island dressing, reduced fat",c
+"Salad dressing, mayonnaise, regular",c
+"Salad dressing, mayonnaise, soybean and safflower oil",b
+"Salad dressing, mayonnaise, imitation",a
+"Sandwich spread, with chopped pickle, regular",c
+"Shortening, household, soybean -cottonseed ",b
+"Oil, soybean, salad or cooking",c
+"Oil, rice bran",b
+"Oil, wheat germ",c
+"Oil, peanut, salad or cooking",b
+"Oil, coconut",a
+"Oil, olive, salad or cooking",a
+"Oil, palm",a
+"Oil, sesame, salad or cooking",a
+"Oil, sunflower, linoleic ",b
+"Margarine, regular, hard",c
+"Salad dressing, french dressing, commercial",d
+"Margarine,spread, 35-39% fat",c
+"Salad dressing, french, home recipe",c
+"Salad dressing, home recipe, vinegar and oil",c
+"Salad dressing, italian dressing, reduced fat",d
+"Salad dressing, mayonnaise, soybean oil",a
+"Salad dressing, french, cottonseed",a
+"Salad dressing, french dressing, fat-free",a
+"Oil, cocoa butter",a
+"Oil, cottonseed, salad or cooking",a
+"Oil, sunflower, linoleic",a
+"Oil, safflower, salad or cooking",a
+"Vegetable oil, palm kernel",a
+"Oil, poppyseed",a
+"Oil, tomatoseed",a
+"Oil, teaseed",c
+"Oil, grapeseed",a
+"Oil, corn, industrial and retail",a
+"Oil, walnut",c
+"Oil, almond",c
+"Oil, apricot kernel",c
+"Oil, soybean lecithin",a
+"Oil, hazelnut",a
+"Oil, babassu",a
+"Oil, sheanut",a
+"Salad dressing, blue or roquefort cheese dressing, commercial",a
+"Oil, cupu assu",b
+"Fat, chicken",a
+"Shortening, household, lard and vegetable oil",b
+"Shortening bread, soybean  and cottonseed",a
+"Shortening cake mix, soybean  and cottonseed ",a
+"Shortening industrial, lard and vegetable oil",a
+"Shortening frying , beef tallow and cottonseed",a
+"Shortening confectionery, coconut  and or palm kernel ",a
+"Shortening industrial, soybean  and cottonseed",a
+"Shortening frying , palm ",b
+Shortening household soybean  and palm,a
+"Shortening frying , soybean , linoleic ",a
+"Shortening, confectionery, fractionated palm",a
+"Oil, nutmeg butter",a
+"Oil, ucuhuba butter",a
+"Fat, turkey",a
+"Fat, goose",a
+"Oil, avocado",a
+"Oil, canola",a
+low erucic acid rapeseed oil,a
+"Oil, mustard",a
+"Oil, sunflower, high oleic ",a
+"Margarine-like, margarine-butter blend, soybean oil and butter",a
+"Shortening, special purpose for cakes and frostings, soybean ",a
+"Shortening, special purpose for baking, soybean  palm and cottonseed",a
+"Oil, oat",a
+"Fish oil, cod liver",a
+"Fish oil, herring",a
+"Fish oil, menhaden",a
+"Fish oil, menhaden, fully hydrogenated",b
+"Fish oil, salmon",b
+"Fish oil, sardine",a
+"Shortening, multipurpose, soybean  and palm ",a
+"Margarine-like, vegetable oil-butter spread, tub",a
+"Butter, light, stick",a
+"Animal fat, bacon grease",b
+"Margarine, regular, 80% fat",a
+"Margarine-like, vegetable oil spread, 60% fat",a
+"Shortening, vegetable, household",b
+"Margarine-like, vegetable oil spread, fat free",b
+"Margarine-like spread with yogurt, 70% fat, stick",a
+"Margarine-like spread with yogurt, approximately 40% fat, tub",a
+"Margarine, 80% fat, stick",b
+"Margarine, margarine-type vegetable oil spread, 70% fat",a
+"Margarine Spread, 40-49% fat, tub",b
+"Margarine-like, vegetable oil spread, fat-free",b
+"Margarine-like, vegetable oil spread, 20% fat",b
+"Salad dressing, thousand island dressing, fat-free",a
+"Salad dressing, italian dressing, fat-free",a
+"Salad dressing, ranch dressing, fat-free",a
+"Salad dressing, ranch dressing, regular",a
+"Salad dressing, ranch dressing, reduced fat",a
+"Salad dressing, mayonnaise, light",a
+lite mayonnaise,a
+"Oil, industrial, mid-oleic",a
+NuSun,b
+"Oil, industrial, canola with antifoaming agent",b
+"Oil, industrial, canola for salads",a
+"Oil, industrial, canola  oil for deep fat frying",a
+"Oil, industrial, coconut",b
+"Oil, industrial, soy ",b
+"Shortening, industrial, soy ",b
+"Oil, industrial, soy",b
+"Oil, industrial, soy  and soy ",b
+"Oil, industrial, soy   and cottonseed",b
+"Margarine-like shortening, industrial, soy ",b
+"Oil, industrial, palm kernel",b
+"Oil, industrial, palm kernel ",b
+"Oil, industrial, palm kernel  ",b
+"Oil, industrial, coconut ",b
+"Oil, industrial, palm and palm kernel",a
+"Margarine, industrial, non-dairy",a
+"Shortening, industrial, soy  and corn for frying",a
+"Shortening, industrial, soy  for baking and confections",b
+"Margarine, industrial, soy and partially hydrogenated soy oil",b
+"Oil, vegetable, soybean",b
+"Margarine-like spread, SMART BALANCE Regular Buttery Spread with flax oil",b
+"Margarine-like spread, SMART BALANCE Light Buttery Spread",b
+"Margarine-like spread, SMART BEAT Super Light without saturated fat",a
+"Margarine-like spread, SMART BEAT Smart Squeeze",a
+"Margarine-like spread, SMART BALANCE Omega Plus Spread ",b
+"Oil, vegetable, Natreon canola",b
+trans free high stability low saturated fat non-hydrogenated canola oil,a
+"Oil, PAM cooking spray, original",b
+"Margarine, margarine-like vegetable oil spread, 67-70% fat",b
+"Margarine, 80% fat, tub",b
+"Oil, cooking and salad, ENOVA",b
+"Salad dressing, honey mustard dressing, reduced calorie",b
+"Margarine-like spread, BENECOL Light Spread",b
+"Salad dressing, spray-style dressing, assorted flavors",b
+"Salad Dressing, mayonnaise, light",b
+"Margarine-like, vegetable oil spread, approximately 37% fat",b
+"Margarine-like vegetable-oil spread, stick/tub/bottle, 60% fat",b
+"Oil, industrial, canola",b
+"Oil, industrial, cottonseed",b
+"Salad dressing, honey mustard, regular",b
+"Salad dressing, poppyseed, creamy",b
+"Salad dressing, caesar, fat-free",b
+"Dressing, honey mustard, fat-free",b
+"Oil, flaxseed, contains added sliced flaxseed",b
+"Mayonnaise, reduced fat, with olive oil",a
+"Salad dressing, mayonnaise-type, light",a
+"Chicken, broiler, rotisserie",a
+"Chicken, broilers or fryers, meat and skin and giblets and neck",a
+"Chicken, broilers or fryers, meat and skin",b
+"Chicken, broilers or fryers, meat only",b
+"Chicken, broilers or fryers, skin only",a
+"Chicken, broilers or fryers, giblets",a
+"Chicken, gizzard, all classes",b
+"Chicken, heart, all classes",b
+"Chicken, liver, all classes",a
+"Chicken, broilers or fryers, light meat",b
+"Chicken, broilers or fryers, dark meat",a
+"Chicken, broilers or fryers, separable fat",a
+"Chicken, broilers or fryers, back",a
+"Chicken, broilers or fryers, breast",a
+"Chicken, broiler or fryers, breast",b
+"Chicken, broilers or fryers, drumstick",a
+"Chicken, broilers or fryers, leg",c
+"Chicken, broilers or fryers, neck",c
+"Chicken, broilers or fryers, thigh",c
+"Chicken, broilers or fryers, wing",a
+"Chicken, roasting, meat and skin and giblets and neck",b
+"Canada Goose, breast meat only, skinless",c
+Canadian geese,c
+"Chicken, roasting, meat and skin",a
+"Chicken, roasting, meat only",c
+"Chicken, roasting, giblets",c
+"Chicken, roasting, light meat",b
+"Chicken, roasting, dark meat",b
+"Chicken, stewing, meat and skin",b
+"Chicken, stewing, meat only",b
+"Chicken, stewing, giblets",c
+"Chicken, stewing, light meat",b
+"Chicken, stewing, dark meat",b
+"Chicken, capons, meat and skin and giblets and neck",b
+"Chicken, capons, meat and skin",b
+"Chicken, capons, giblets",b
+"Duck, domesticated, meat and skin",c
+"Duck, domesticated, meat only",b
+"Duck, domesticated, liver",b
+"Duck, wild, meat and skin",b
+"Duck, wild, breast",c
+"Goose, domesticated, meat and skin",b
+"Goose, domesticated, meat only",b
+"Goose, liver, raw",b
+"Guinea hen, meat and skin, raw",b
+"Guinea hen, meat only, raw",b
+"Pheasant, raw, meat and skin",a
+"Pheasant, raw, meat only",b
+"Pheasant, breast, meat only",b
+"Pheasant, leg, meat only",b
+"Quail, meat and skin, raw",a
+"Quail, meat only, raw",a
+"Quail, breast, meat only",a
+"Squab, meat and skin",a
+"Squab, meat only",a
+"Squab, light meat without skin",a
+"Turkey, whole, meat and skin",b
+"Turkey, whole, meat only",a
+"Turkey, whole, skin ",a
+"Turkey, whole, giblets",a
+"Turkey, gizzard, all classes",b
+"Turkey, all classes, gizzard",d
+"Turkey, all classes, heart",a
+"Turkey, all classes, liver",b
+"Turkey, whole, neck",b
+"Turkey, whole, light meat",a
+"Turkey, dark meat, meat and skin",b
+"Turkey, whole, dark meat",b
+"Turkey, all classes, light meat",a
+"Turkey, all classes, back",b
+"Turkey, all classes, breast",a
+"Turkey, all classes, leg",b
+"Turkey, all classes, wing",a
+"Turkey, fryer-roasters, meat and skin",a
+"Turkey, whole, back",a
+"Turkey, whole, breast",b
+"Turkey, whole, wing",b
+"Turkey, young hen, skin only",c
+"Chicken, canned, meat only",e
+"Pate de foie gras, canned , smoked",b
+"Turkey, canned, meat only",e
+"Turkey, diced, light and dark meat",b
+"Turkey and gravy, frozen",e
+"Turkey breast, pre-basted, meat and skin",e
+"Turkey thigh, pre-basted, meat and skin",c
+"Turkey roast, boneless, frozen",b
+"Turkey sticks, breaded, battered",e
+"Poultry, mechanically deboned, from backs and necks with skin",b
+"Poultry, mechanically deboned, from backs and necks without skin",c
+"Poultry, mechanically deboned, from mature hens",e
+"Turkey, mechanically deboned, from turkey frames",c
+"Turkey, Ground, raw",e
+"Turkey, Ground, cooked",c
+"Chicken, cornish game hens, meat and skin",e
+"Chicken, cornish game hens, meat only",b
+"Chicken, canned, no broth",b
+"Chicken, wing, frozen",c
+"Duck, young duckling, domesticated",b
+"Chicken patty, frozen, uncooked",e
+"Chicken patty, frozen, cooked",e
+"Chicken breast tenders, breaded, cooked",c
+"Chicken breast tenders, breaded, uncooked",b
+"Chicken, ground, raw",e
+"Chicken, ground, crumbles",e
+"Chicken, feet, boiled",b
+"Chicken, broilers or fryers, rotisserie",b
+"Chicken, broilers or fryers,  rotisserie",b
+"Ruffed Grouse, breast meat, skinless",c
+Ruffed grouse,e
+"Emu, ground, raw",c
+"Emu, ground, cooked",b
+"Emu, fan fillet, raw",b
+"Emu, fan fillet, cooked",e
+"Emu, flat fillet, raw",b
+"Emu, full rump, raw",c
+"Emu, full rump, cooked",e
+"Emu, inside drum, raw",e
+"Emu, inside drums, cooked",c
+"Emu, outside drum, raw",b
+"Emu, oyster, raw",c
+"Emu, top loin, cooked",b
+"Ostrich, ground, raw",e
+"Ostrich, ground, cooked",b
+"Ostrich, fan, raw",c
+"Ostrich, inside leg, raw",e
+"Ostrich, inside leg, cooked",b
+"Ostrich, inside strip, raw",e
+"Ostrich, inside strip, cooked",b
+"Ostrich, outside leg, raw",e
+"Ostrich, outside strip, raw",b
+"Ostrich, outside strip, cooked",b
+"Ostrich, oyster, raw",c
+"Ostrich, oyster, cooked",e
+"Ostrich, round, raw",b
+"Ostrich, tenderloin, raw",c
+"Ostrich, tip trimmed, raw",e
+"Ostrich, tip trimmed, cooked",e
+"Ostrich, top loin, raw",b
+"Ostrich, top loin, cooked",a
+"Turkey, ground, fat free",b
+"Turkey, ground, 93% lean",b
+"Turkey, ground, 85% lean",c
+"Chicken, skin , cooked",e
+"Chicken, skin , raw",b
+"Chicken, dark meat, drumstick",c
+"Chicken, dark meat, thigh",e
+"Chicken, skin , with added solution",b
+"Turkey, dark meat from whole, meat only",e
+"Turkey, dark meat, meat only",b
+"Turkey from whole, light meat, meat only",e
+"Turkey, skin from whole , with added solution",c
+"Turkey, skin from whole, ",c
+"Turkey, dark meat from whole, meat and skin",e
+"Turkey from whole, light meat, meat and skin",b
+"Turkey, retail parts, breast",e
+"Turkey, retail parts, wing",c
+"Turkey, skin, from retail parts",c
+"Turkey, retail parts, drumstick",b
+"Turkey, retail parts, thigh",e
+"Turkey, breast, from whole bird",b
+"Turkey, back, from whole bird",b
+"Turkey, drumstick, from whole bird",e
+"Turkey, thigh, from whole bird",b
+"Turkey, wing, from whole bird",b
+"Soup, cream of asparagus, canned",b
+"Soup, black bean, canned",b
+"Soup, bean with pork, canned",c
+"Soup, bean with frankfurters, canned",c
+"Soup, bean with ham, canned",c
+"Soup, beef broth or bouillon canned, ready-to-serve",e
+"Soup, beef noodle, canned",b
+"Soup, cream of celery, canned",e
+"Soup, cheese, canned",b
+"Soup, chicken broth, canned",b
+"Soup, chicken, canned",b
+"Soup, cream of chicken, canned",b
+"Soup, chicken gumbo, canned",b
+"Soup, chunky chicken noodle, canned",b
+"Soup, chicken noodle, canned",b
+"Soup, chicken rice, canned",b
+"Soup, chicken with rice, canned",b
+"Soup, chicken and vegetable, canned",b
+"Soup, chicken vegetable, canned",b
+"Soup, chili beef, canned",b
+"Soup, clam chowder, manhattan style",c
+"Soup, clam chowder, manhattan",c
+"Soup, clam chowder, new england",c
+"Soup, beef broth bouillon and consomme, canned",b
+"Soup, lentil with ham, canned",c
+"Soup, minestrone, canned",c
+"Soup, mushroom barley, canned",e
+"Soup, cream of mushroom, canned",e
+"Soup, mushroom with beef stock, canned",e
+"Soup, onion, canned",d
+"Soup, cream of onion, canned",c
+"Soup, oyster stew, canned",c
+"Soup, pea, green",e
+"Soup, pea, split with ham",e
+"Soup, cream of potato, canned",e
+"Soup, cream of shrimp, canned",d
+"Soup, tomato beef with noodle, canned",d
+"CAMPBELL'S, Chicken Noodle Soup, condensed",d
+"Soup, tomato rice, canned",d
+"Soup, turkey, chunky",d
+"Soup, chunky vegetable, canned",e
+"Soup, vegetarian vegetable, canned",e
+"Soup, chunky beef, canned",d
+"Soup, vegetable beef, canned",c
+"Soup, vegetable with beef broth, canned",d
+"Soup, beef broth or bouillon, powder",e
+"Soup, beef broth, cubed",e
+"Soup, chicken broth or bouillon, dry",e
+"Soup, chicken broth cubes, dry",e
+"Soup, onion, dry",e
+"Soup, cream of vegetable, dry",e
+"Sauce, teriyaki, ready-to-serve",e
+"Gravy, au jus, canned",e
+"Gravy, au jus, dry",e
+"Gravy, beef, canned",e
+"Gravy, brown, dry",e
+"Gravy, chicken, canned or bottled",e
+"Gravy, chicken, dry",e
+"Gravy, mushroom, canned",d
+"Gravy, mushroom, dry",e
+"Gravy, onion, dry",d
+"Gravy, pork, dry",e
+"Gravy, turkey, canned",d
+"Gravy, turkey, dry",d
+"Gravy, unspecified type, dry",c
+"Soup, chicken noodle, dry",c
+"Sauce, sofrito, prepared from recipe",b
+"Soup, beef mushroom, canned",d
+"Soup, chicken mushroom, canned",e
+"Sauce, barbecue",d
+"Sauce, plum, ready-to-serve",e
+"Sauce, pizza, canned",e
+"Soup, tomato bisque, canned",e
+"Soup, tomato, canned",d
+"Sauce, salsa, ready-to-serve",d
+"Sauce, homemade, white",e
+"Sauce, ready-to-serve, pepper or hot",e
+"Sauce, ready-to-serve, pepper",e
+"Soup, stock, beef",e
+"Soup, stock, chicken",e
+"Soup, stock, fish",e
+"Sauce, hoisin, ready-to-serve",e
+"Sauce, oyster, ready-to-serve",e
+"Sauce, fish, ready-to-serve",d
+"Soup, shark fin, restaurant-prepared",d
+"Soup, chicken broth, less/reduced sodium",e
+"Soup, beef broth, less/reduced sodium",d
+"Soup, bean & ham, canned",e
+"Split pea soup, canned, reduced sodium",e
+"Split pea with ham soup, canned, reduced sodium",e
+"Soup, chicken broth, ready-to-serve",e
+"Soup, chicken vegetable with potato and cheese, chunky",e
+"Soup, vegetable, canned",e
+"Sauce, white, thin",e
+NFSMI Recipe No. G-08,e
+"Sauce, sweet and sour, prepared-from-recipe",e
+NFSMI Recipe No. G-05,e
+"Sauce, barbecue, KRAFT",e
+"Soup, HEALTHY CHOICE Chicken Noodle Soup, canned",e
+"Soup, HEALTHY CHOICE Chicken and Rice Soup, canned",e
+"Soup, HEALTHY CHOICE Garden Vegetable Soup, canned",e
+"CAMPBELL'S, Cream of Mushroom Soup, condensed",e
+"CAMPBELL'S, Tomato Soup, condensed",e
+"CAMPBELL'S CHUNKY, Classic Chicken Noodle Soup",e
+"CAMPBELL'S CHUNKY, Hearty Beef Barley Soup",e
+"CAMPBELL'S CHUNKY, New England Clam Chowder",e
+"Soup, beef broth, bouillon",e
+"CAMPBELL'S CHUNKY, Old Fashioned Vegetable Beef Soup",e
+"Soup, turkey noodle, canned",e
+"Soup, turkey vegetable, canned",e
+"Soup, cream of chicken, dry",e
+"Soup, tomato, dry",d
+"Soup, ramen noodle, any flavor",e
+"Soup, broccoli cheese, canned",e
+"Soup, SWANSON, beef broth",e
+"Soup, SWANSON, vegetable broth",e
+"Sauce, peanut, made from coconut",e
+"SMART SOUP, Santa Fe Corn Chowder",e
+"SMART SOUP, French Lentil",e
+"SMART SOUP, Greek Minestrone",e
+"SMART SOUP, Indian Bean Masala",e
+"SMART SOUP, Moroccan Chick Pea",e
+"SMART SOUP, Thai Coconut Curry",e
+"SMART SOUP, Vietnamese Carrot Lemongrass",e
+"Sauce, pesto, ready-to-serve",e
+"Sauce, pesto, BUITONI",e
+"Sauce, pesto, CLASSICO",d
+"Sauce, pesto, MEZZETTA",d
+"Sauce, hot chile, sriracha",e
+"Soup, vegetable broth, ready to serve",e
+"Sauce, cheese sauce mix, dry",e
+"Soup, chicken corn chowder, chunky",e
+"Soup, bean with bacon, condensed",e
+"Soup, vegetable beef, microwavable",e
+"Soup, beef and vegetables, canned",e
+"Sauce, cheese, ready-to-serve",e
+"Sauce, pasta, spaghetti/marinara",d
+"Gravy, brown instant, dry",d
+"Gravy, instant beef, dry",d
+"Gravy, instant turkey, dry",c
+"Sauce, alfredo mix, dry",e
+"Sauce, peppers, hot",d
+"Sauce, chili, peppers",e
+Fish broth,e
+"Soup, tomato, low sodium",e
+"Soup, pea, low sodium",c
+"Soup, chicken noodle, low sodium",d
+"Soup, vegetable soup, condensed",c
+"Soup, cream of mushroom, low sodium",c
+"Potato soup, instant, dry mix",d
+"Soup, chicken broth, low sodium",d
+"Sauce, worcestershire",e
+"Sauce, tomato chili sauce, bottled",d
+"Soup, vegetable chicken, canned",d
+"Gravy, meat or poultry, low sodium",e
+"Soup, beef and mushroom, low sodium",d
+"Soup, beef stroganoff, canned",d
+"Soup, bouillon cubes and granules, low sodium",e
+"Soup, ramen noodle, beef flavor",e
+"Soup, ramen noodle, chicken flavor",e
+"Gravy, HEINZ Home Style, savory beef",e
+"Gravy, CAMPBELL'S, chicken",e
+"Barbecue loaf, pork, beef",e
+"Beerwurst, beer salami, pork and beef",e
+"Beerwurst, beer salami, pork",e
+"Sausage, Berliner, pork",e
+Blood sausage,e
+"Bockwurst, pork, veal",e
+"Bologna, beef",e
+"Bologna, beef and pork",e
+"Bologna, pork",e
+"Bologna, turkey",e
+"Bratwurst, pork, cooked",e
+"Braunschweiger , pork",e
+"Bratwurst, pork, beef",e
+"Cheesefurter, cheese smokie, pork",e
+Chicken spread,e
+"Sausage, pork, chorizo",e
+"Corned beef loaf, jellied",e
+"Dutch brand loaf, chicken, pork and beef",e
+"Frankfurter, beef, unheated",e
+hot dog,d
+frank,e
+wiener,e
+"Frankfurter, chicken",d
+hot dog,c
+wiener,e
+frank,d
+"Frankfurter, turkey",d
+hot dog,e
+wiener,e
+frank,d
+"Ham, chopped, canned",d
+"Ham, chopped, not canned",d
+"Ham, sliced, pre-packaged",d
+"Ham, sliced, regular ",d
+"Ham, minced",d
+Ham salad spread,e
+Ham and cheese loaf or roll,e
+Ham and cheese spread,e
+"Headcheese, pork",e
+"Sausage, Italian, pork",e
+"Knackwurst, knockwurst, pork",d
+"Lebanon bologna, beef",d
+"Liver cheese, pork",d
+"Liver sausage, liverwurst, pork",e
+"Roast beef, deli style, prepackaged",e
+"Luncheon meat, pork, canned",e
+"Turkey breast, low salt, prepackaged or deli",e
+"Mortadella, beef, pork",d
+"Olive loaf, pork",e
+"Pastrami, turkey",d
+"Pate, chicken liver, canned",d
+"Pate, goose liver, smoked",e
+"Pate, liver, not specified",d
+"Peppered loaf, pork, beef",a
+"Pepperoni, beef and pork, sliced",b
+"Pickle and pimiento loaf, pork",c
+"Polish sausage, pork",b
+"Luxury loaf, pork",b
+"Mother's loaf, pork",b
+"Picnic loaf, pork, beef",b
+"Pork sausage, link/patty, unprepared",c
+"Pork sausage, link/patty, cooked",b
+"Sausage, pork and beef, fresh",b
+"Sausage, turkey, reduced fat",b
+Poultry salad sandwich spread,a
+"Salami, cooked, beef",b
+"Salami, cooked, beef and pork",a
+"Salami, cooked, turkey",a
+"Salami, dry or hard, pork",c
+"Sandwich spread, pork, beef",d
+"Sausage, smoked link sausage, pork",d
+"Sausage, smoked link sausage, pork and beef",c
+"Sausage, smoked link sausage, pork and beef ",c
+"Thuringer, cervelat, summer sausage",a
+"Turkey breast, sliced, prepackaged",b
+"Sausage, Vienna, canned",a
+"Honey roll sausage, beef",a
+"Luncheon sausage, pork and beef",a
+"Sausage, New england brand, pork",a
+"Oscar Mayer, Bologna ",a
+"Oscar Mayer, Braunschweiger Liver Sausage ",a
+"Oscar Mayer, Chicken Breast ",a
+"Oscar Mayer, Ham ",b
+"Oscar Mayer, Salami ",c
+"Oscar Mayer, Smokies Sausage Little Cheese ",b
+"Oscar Mayer, Wieners ",b
+hot dog,a
+frankfurter,b
+hotdog,c
+wiener,b
+"Bacon, turkey, unprepared",b
+Hormel Pillow Pak Sliced Turkey Pepperoni,b
+"Sausage, turkey, pork",a
+"Frankfurter, beef, pork",a
+hot dog,a
+wiener,a
+frank,a
+"Luncheon meat, pork, ham",b
+"Luncheon meat, pork with ham, minced",b
+"Luncheon meat, pork and chicken, minced",a
+"Bratwurst, veal, cooked",d
+Liverwurst spread,c
+Roast beef spread,c
+"Salami, pork, beef",c
+"Sausage, Italian, sweet",c
+"Sausage, Polish, beef with chicken",c
+"Sausage, Polish, pork and beef",a
+"Sausage, pork and beef, with cheddar cheese",c
+"Sausage, summer, pork and beef",b
+"Sausage, turkey, breakfast links",b
+"Swisswurst, pork and beef, with swiss cheese",a
+Bacon and beef sticks,c
+"Bratwurst, beef and pork, smoked",a
+"Bratwurst, chicken, cooked",a
+"Bratwurst, pork, beef and turkey",a
+"Pastrami, beef, 98% fat-free",a
+"Salami, Italian, pork",a
+"Sausage, Italian, turkey",a
+"Sausage, chicken, beef",a
+"Sausage, turkey, hot",b
+"Yachtwurst, with pistachio nuts, cooked",c
+"Beerwurst, pork and beef",b
+"Chicken breast, fat-free, mesquite flavor",b
+"Chicken breast, oven-roasted, fat-free",a
+"Kielbasa, Polish, turkey and beef",a
+"Chicken breast, roll, oven-roasted",b
+"Bologna, pork and turkey, lite",a
+"Bologna, pork, turkey and beef",a
+"Ham, honey, smoked",b
+"Frankfurter, pork",c
+hot dog,b
+wiener,b
+frank,b
+"Macaroni and cheese loaf, chicken, pork and beef",a
+"Salami, Italian, pork and beef",b
+"Pate, truffle flavor",b
+"Turkey, breast, smoked",a
+"Turkey, white, rotisserie",c
+"Frankfurter, beef, heated",c
+hot dog,c
+frank,b
+wiener,a
+"Frankfurter, meat, heated",b
+"Frankfurter, meat",a
+"Scrapple, pork",b
+"Bologna, chicken, turkey",c
+"Pork sausage, link/patty, fully cooked",b
+"Sausage, breakfast sausage, beef",b
+"Sausage, turkey, fresh",b
+"Sausage, beef, fresh",a
+"Sausage, pork and turkey, pre-cooked",b
+"Bologna, chicken, pork",b
+"Chicken breast, deli, rotisserie seasoned",a
+"Frankfurter, meat and poultry, unheated",b
+"Frankfurter, meat and poultry, cooked",c
+"Pork sausage, link/patty, reduced fat",c
+"Kielbasa, fully cooked, grilled",c
+"Kielbasa, fully cooked, pan-fried",b
+"Kielbasa, fully cooked, unheated",a
+"Bologna, meat and poultry",b
+"Meatballs, frozen, Italian style",b
+"Bacon, turkey, microwaved",a
+"Bacon, turkey, low sodium",b
+"Sausage, chicken or turkey, Italian style",b
+"Ham, smoked, extra lean",a
+"Pork sausage, reduced sodium, cooked",b
+"Sausage, pork, turkey",a
+"Acerola, raw",a
+"Acerola juice, raw",a
+"Apples, raw, with skin ",a
+"Apples, raw, without skin",a
+"Apples, canned, sweetened",a
+"Apples, dehydrated , sulfured",a
+"Apples, dried, sulfured",b
+"Apples, frozen, unsweetened",c
+"Apple juice, canned or bottled, unsweetened",b
+"Apple juice, frozen concentrate, unsweetened",c
+"Applesauce, canned, unsweetened",c
+"Applesauce, canned, sweetened",a
+"Apricots, raw",b
+"Apricots, canned, water pack",a
+"Apricots, canned, juice pack",a
+"Apricots, canned, extra light syrup pack",a
+"Apricots, canned, light syrup pack",a
+"Apricots, canned, heavy syrup pack",a
+"Apricots, canned, extra heavy syrup pack",c
+"Apricots, dehydrated , sulfured",b
+"Apricots, dried, sulfured",b
+"Apricots, frozen, sweetened",b
+"Apricot nectar, canned, with added ascorbic acid",b
+"Avocados, raw, all commercial varieties",a
+"Avocados, raw, California",a
+"Avocados, raw, Florida",c
+"Bananas, raw",c
+"Bananas, dehydrated, or banana powder",a
+"Blackberries, raw",b
+"Blackberry juice, canned",a
+"Cherries, tart, dried",b
+"Blackberries, canned, heavy syrup",a
+"Blackberries, frozen, unsweetened",c
+"Blueberries, raw",c
+"Blueberries, canned, heavy syrup",a
+"Blueberries, wild, frozen ",b
+"Blueberries, frozen, unsweetened ",a
+"Blueberries, frozen, sweetened",a
+"Boysenberries, canned, heavy syrup",a
+"Boysenberries, frozen, unsweetened",a
+"Breadfruit, raw",a
+"Carambola, raw",a
+"Carissa, raw",a
+"Cherimoya, raw",b
+"Cherries, sour, red",a
+"Cherries, sweet, raw",a
+"Cherries, sweet, canned",c
+"Crabapples, raw",a
+"Cranberries, raw",a
+"Cranberries, dried, sweetened ",a
+"Cranberry sauce, canned, sweetened",b
+"Cranberry-orange relish, canned",a
+"Currants, european black, raw",a
+"Currants, red and white, raw",c
+"Currants, zante, dried",d
+raisin,a
+"Custard-apple, raw",a
+"Dates, deglet noor",a
+"Elderberries, raw",a
+"Figs, raw",a
+"Figs, canned, water pack",a
+"Figs, canned, light syrup pack",a
+"Figs, canned, heavy syrup pack",b
+"Figs, canned, extra heavy syrup pack",a
+"Figs, dried, uncooked",b
+"Figs, dried, stewed",a
+"Fruit cocktail, canned",a
+"Fruit salad, canned",b
+"Gooseberries, raw",b
+"Gooseberries, canned, light syrup pack",a
+"Goji berries, dried",a
+wolfberries,a
+"Grapefruit, raw, pink and red and white",a
+"Grapefruit, raw, pink and red",b
+"Grapefruit, raw, white",a
+"Grapefruit, sections, canned",a
+"Grapefruit juice, white, canned or bottled",a
+"Grapefruit juice, white, canned",b
+"Grapefruit juice, white, frozen concentrate",b
+"Grapefruit juice, pink or red, with added calcium",b
+"Grapefruit juice, white, raw",a
+"Grapes, muscadine, raw",a
+"Grape juice, canned or bottled, unsweetened",a
+"Grapes, american type , raw",a
+"Grapes, red or green ",a
+"Grapes, canned, thompson seedless",a
+"Groundcherries, raw",a
+"Guavas, common, raw",d
+"Guavas, strawberry, raw",c
+"Guava sauce, cooked",d
+"Jackfruit, raw",c
+"Java-plum, raw",c
+"Jujube, raw",c
+"Jujube, Chinese, fresh",c
+"Kiwifruit, green, raw",b
+Chinese gooseberry,b
+"Kumquats, raw",c
+"Lemons, raw, without peel",c
+"Lemon juice, raw",d
+"Lemon juice from concentrate, canned or bottled",c
+"Lemon peel, raw",b
+"Limes, raw",b
+"Lime juice, raw",b
+"Lime juice, canned or bottled, unsweetened",a
+"Blueberries, dried, sweetened",a
+"Litchis, raw",b
+lychee,c
+"Litchis, dried",a
+lychee,a
+"Loganberries, frozen",c
+"Longans, raw",c
+"Longans, dried",c
+"Loquats, raw",a
+"Mammy-apple, raw",a
+"Mangos, raw",a
+"Mangosteen, canned, syrup pack",b
+"Mango, dried, sweetened",a
+"Melons, cantaloupe, raw",b
+"Melons, casaba, raw",c
+"Melons, honeydew, raw",c
+"Melon balls, frozen",c
+"Mulberries, raw",c
+"Nectarines, raw",a
+"Oheloberries, raw",b
+"Olives, ripe, canned ",b
+"Olives, pickled, canned or bottled",b
+"Oranges, raw, all commercial varieties",b
+"Oranges, raw, California",a
+"Oranges, raw, navels ",a
+"Oranges, raw, Florida",c
+"Oranges, raw, with peel",c
+"Orange juice, raw ",a
+"Orange juice, canned, unsweetened",b
+"Orange juice, chilled, includes from concentrate",d
+"Orange juice, frozen concentrate, unsweetened",b
+"Orange peel, raw",c
+"Orange-grapefruit juice, canned or bottled, unsweetened",c
+"Tangerines, raw",b
+"Tangerines, canned",c
+"Tangerine juice, raw",c
+"Papayas, raw",c
+"Papaya, canned, heavy syrup",c
+"Papaya nectar, canned",c
+"Passion-fruit, purple",d
+"Passion-fruit juice, purple, raw",c
+"Passion-fruit juice, yellow, raw",b
+"Peaches, yellow, raw",c
+"Peaches, canned, water pack",c
+"Peaches, canned, juice pack",c
+"Peaches, canned, extra light syrup",a
+"Peaches, canned, light syrup pack",c
+"Peaches, canned, heavy syrup pack",a
+"Peaches, canned, extra heavy syrup pack",a
+"Peaches, spiced, canned",a
+"Peaches, dehydrated , sulfured",a
+"Peaches, dried, sulfured",a
+"Peaches, frozen, sliced",a
+"Peach nectar, canned, with sucralose",a
+"Pears, raw",a
+"Pears, canned, water pack",a
+"Pears, canned, juice pack",a
+"Pears, canned, extra light syrup pack",a
+"Pears, canned, light syrup pack",a
+"Pears, canned, heavy syrup pack",a
+"Pears, canned, extra heavy syrup pack",a
+"Pears, dried, sulfured",a
+"Pear nectar, canned, without added ascorbic acid",a
+"Persimmons, japanese, raw",a
+"Persimmons, japanese, dried",a
+"Persimmons, native, raw",a
+"Pineapple, raw, all varieties",a
+"Pineapple, canned, water pack",a
+"Pineapple, canned, juice pack",a
+"Pineapple, canned, light syrup pack",a
+"Pineapple, canned, heavy syrup pack",a
+"Pineapple, canned, extra heavy syrup pack",a
+"Pineapple, frozen, chunks",a
+"Pineapple juice, canned or bottled, unsweetened",a
+"Pineapple juice, frozen concentrate, unsweetened",a
+"Pitanga, raw",a
+"Plantains, yellow, raw",a
+"Plantains, yellow, baked",b
+"Plums, raw",a
+"Plums, canned, purple",a
+"Pomegranates, raw",a
+"Prickly pears, raw",a
+"Prunes, canned, heavy syrup pack",a
+"Prunes, dehydrated , uncooked",b
+"Prunes, dehydrated , stewed",b
+"Plums, dried, uncooked",b
+"Plums, dried, stewed",b
+"Prune juice, canned",a
+"Pummelo, raw",a
+"Quinces, raw",c
+"Raisins, golden, seedless",c
+"Raisins, dark, seedless ",c
+"Raisins, seeded",b
+"Rambutan, canned, syrup pack",b
+"Raspberries, raw",a
+"Raspberries, canned, red",a
+"Raspberries, frozen, red",a
+"Rhubarb, raw",b
+"Rhubarb, frozen, uncooked",a
+"Rhubarb, frozen, cooked",b
+"Roselle, raw",d
+"Rose-apples, raw",c
+"Sapodilla, raw",d
+"Sapote, mamey, raw",b
+mamey colorado,a
+marmalade plum,b
+"Soursop, raw",b
+"Strawberries, raw",b
+"Strawberries, canned, heavy syrup pack",b
+"Strawberries, frozen, unsweetened ",c
+"Strawberries, frozen, sweetened",a
+"Sugar-apples, raw",a
+"Tamarinds, raw",a
+"Fruit salad, tropical",a
+"Watermelon, raw",c
+"Maraschino cherries, canned, drained",d
+"Feijoa, raw",b
+"Pears, asian, raw",b
+"Fruit cocktail, canned, heavy syrup",a
+"Blueberries, canned, light syrup",a
+"Blueberries, wild, canned",a
+"Apricots, canned, heavy syrup",a
+"Cherries, sour, canned",a
+"Peaches, canned, heavy syrup",b
+"Pears, canned, heavy syrup",a
+"Plums, canned, heavy syrup",a
+"Grapefruit juice, pink, raw",a
+"Peach nectar, canned, with added ascorbic acid",a
+"Pear nectar, canned, with added ascorbic acid",a
+vitamin C,a
+"Pears, raw, bartlett ",c
+"Pears, raw, red anjou",d
+"Pears, raw, bosc ",a
+"Pears, raw, green anjou ",a
+"Grapefruit juice, white, bottled",a
+"Jackfruit, canned, syrup pack",a
+"Dates, medjool",a
+"Durian, raw or frozen",a
+Prune puree,a
+Candied fruit,a
+"Abiyuch, raw",a
+garlic pear,a
+"Rowal, raw",a
+"Pineapple, raw, traditional varieties",a
+"Pineapple, raw, extra sweet variety",a
+"Clementines, raw",a
+"Guanabana nectar, canned",a
+"Guava nectar, canned, with added ascorbic acid",a
+"Mango nectar, canned",a
+"Tamarind nectar, canned",b
+"Pomegranate juice, bottled",b
+"Juice, apple and grape blend, with added ascorbic acid",a
+"Juice, apple, grape and pear blend",b
+"Plantains, green, fried",a
+tostones de platano,a
+"Plantains, yellow, fried",a
+platanos maduros,a
+"Nance, canned, syrup",a
+yellow cherries,b
+"Nance, frozen, unsweetened",b
+yellow cherries,b
+"Naranjilla  pulp, frozen, unsweetened",a
+Horned melon ,a
+African horned melon,a
+Orange Pineapple Juice Blend,a
+"Apples, raw, red delicious",c
+"Apples, raw, golden delicious",c
+"Apples, raw, granny smith",c
+"Apples, raw, gala",b
+"Apples, raw, fuji",c
+"Fruit juice smoothie, NAKED JUICE, MIGHTY MANGO",a
+"Fruit juice smoothie, NAKED JUICE, GREEN MACHINE",c
+"Pineapple juice, canned, not from concentrate",c
+"Fruit juice smoothie, NAKED JUICE, BLUE MACHINE",c
+"Fruit juice smoothie, ODWALLA, ORIGINAL SUPERFOOD",c
+"Fruit juice smoothie, BOLTHOUSE FARMS, BERRY BOOST",c
+"Fruit juice smoothie, BOLTHOUSE FARMS, GREEN GOODNESS",c
+"Fruit juice smoothie, BOLTHOUSE FARMS, strawberry banana",c
+"Guava nectar, with sucralose, canned",b
+"Kiwifruit, ZESPRI SunGold, raw",c
+Gold3,c
+"Cranberry juice blend, 100% juice, bottled",b
+"Lemon juice from concentrate, bottled, CONCORD",c
+"Lemon juice from concentrate, bottled, REAL LEMON",b
+"Cranberry sauce, whole, canned",c
+"Cranberry sauce, jellied, canned",b
+Ruby Red grapefruit juice blend ,c
+"Fruit juice smoothie, ODWALLA, strawberry banana",c
+"Fruit juice smoothie, NAKED JUICE, strawberry banana",b
+"Plantains, green, raw",c
+"Plantains, green, boiled",c
+Baobab powder,c
+"Cherry juice, tart",c
+"Raspberries, puree, seedless",c
+"Raspberries, puree, with seeds",c
+Raspberry juice concentrate,c
+"Pork, fresh, composite of separable fat",c
+"Pork, fresh, carcass",b
+"Pork, fresh, composite of trimmed retail cuts (leg",c
+"Pork, fresh, composite of trimmed leg",c
+"Pork, fresh, backfat",c
+"Pork, fresh, belly",c
+"Pork, fresh, separable fat",c
+"Pork, fresh, leg ",c
+"Pork, fresh, loin",c
+"Pork, fresh, shoulder",c
+"Pork, fresh, spareribs",c
+"Pork, fresh, variety meats and by-products",b
+"Pork, cured, bacon",b
+"Pork, cured, breakfast strips",c
+"Canadian bacon, unprepared",c
+"Pork, cured, feet",c
+"Pork, cured, ham",c
+"Pork, cured, salt pork",c
+"Pork, cured, separable fat ",c
+"Pork, cured, shoulder",c
+"Pork, fresh, backribs",c
+"Pork, fresh, ground",c
+"Pork, fresh, composite of trimmed retail cuts ",c
+"HORMEL, Cure 81 Ham",c
+"HORMEL ALWAYS TENDER, Pork Tenderloin, Teriyaki-Flavored",b
+"HORMEL ALWAYS TENDER, Pork Tenderloin, Peppercorn-Flavored",b
+"HORMEL ALWAYS TENDER, Pork Loin Filets, Lemon Garlic-Flavored",c
+"HORMEL ALWAYS TENDER, Center Cut Chops, Fresh Pork",b
+"HORMEL ALWAYS TENDER, Boneless Pork Loin, Fresh Pork",c
+HORMEL Canadian Style Bacon,c
+"Pork, bacon, rendered fat",d
+bacon drippings,d
+"Pork, cured, ham -- water added",d
+"Pork, cured, ham and water product",c
+"Pork, cured, ham with natural juices",c
+"Pork, pickled pork hocks",c
+"Pork, fresh, enhanced",c
+"Pork, loin, leg cap steak",c
+URMIS #3646,c
+Leg cap steak,d
+Gracilis,d
+"Pork, Leg Cap Steak, boneless",c
+URMIS #3646,c
+Leg cap steak,c
+Gracilis,b
+"Pork, Shoulder breast, boneless",c
+URMIS #3604,c
+Shoulder breast,d
+Pectoralis Profundi,c
+"Pork, shoulder, petite tender",c
+URMIS #3605,c
+Shoulder petite tender,d
+Teres major,c
+"Pork, Shoulder petite tender, boneless",c
+URMIS #3605,d
+Shoulder petite tender,c
+Teres major,c
+"Pork, Leg sirloin tip roast, boneless",c
+URMIS #3647,c
+Leg sirloin tip roast,c
+Vastas Lateralis/Rectus femoris,c
+"Pork, ground, 84% lean / 16% fat",c
+"Pork, ground, 96% lean / 4% fat",e
+"Pork, ground, 72% lean / 28% fat",c
+"Pork loin, fresh, backribs",b
+"Pork, fresh, blade",c
+"Bacon, pre-sliced, reduced/low sodium",c
+"Canadian bacon, cooked, pan-fried",c
+"Alfalfa seeds, sprouted, raw",c
+"Amaranth leaves, raw",c
+"Amaranth leaves, cooked, boiled",c
+"Arrowhead, raw",c
+"Arrowhead, cooked, boiled",c
+"Artichokes, raw",b
+"Artichokes, cooked",b
+"Artichokes, frozen",b
+"Asparagus, raw",d
+"Asparagus, cooked, boiled",c
+"Asparagus, canned, regular pack",a
+"Asparagus, canned, drained solids",c
+"Asparagus, frozen, unprepared",c
+"Asparagus, frozen, cooked",c
+"Balsam-pear, leafy tips, raw",c
+"Balsam-pear, leafy tips, cooked",b
+"Balsam-pear, pods, raw",d
+"Balsam-pear, pods, cooked",a
+"Bamboo shoots, raw",a
+"Bamboo shoots, cooked, boiled",a
+"Bamboo shoots, canned, drained solids",c
+"Beans, kidney, mature seeds",b
+"Lima beans, immature seeds, raw",c
+"Lima beans, immature seeds, cooked",c
+"Lima beans, immature seeds, canned",c
+"Lima beans, immature seeds, frozen",c
+"Mung beans, mature seeds, sprouted",c
+"Beans, navy, mature seeds",c
+"Beans, pinto, immature seeds",c
+"Beans, shellie, canned",c
+"Beans, snap, green",c
+"Beans, snap, canned",c
+"Beets, raw",b
+"Beets, cooked, boiled",c
+"Beets, canned, regular pack",c
+"Beets, canned, drained solids",c
+"Beet greens, raw",b
+"Beet greens, cooked, boiled",c
+"Broadbeans, immature seeds, raw",c
+"Broadbeans, immature seeds, cooked",c
+"Broccoli, raw",c
+"Broccoli, cooked, boiled",b
+"Broccoli, frozen, chopped",b
+"Broccoli, frozen, spears",c
+"Broccoli raab, raw",b
+Broccoli rabe,c
+Rapini,b
+"Broccoli raab, cooked",b
+Broccoli rabe,b
+Rapini,b
+"Brussels sprouts, raw",b
+"Brussels sprouts, cooked, boiled",b
+"Brussels sprouts, frozen, unprepared",b
+"Brussels sprouts, frozen, cooked",c
+"Burdock root, raw",b
+"Burdock root, cooked, boiled",b
+"Butterbur, raw",c
+"Butterbur, cooked, boiled",b
+"Butterbur, canned",b
+"Cabbage, raw",c
+"Cabbage, cooked, boiled",c
+"Cabbage, red, raw",b
+"Cabbage, red, cooked",c
+"Cabbage, savoy, raw",b
+"Cabbage, savoy, cooked",b
+"Cabbage, chinese, raw",b
+pak choi,c
+bok choy,b
+"Cabbage, chinese, cooked",c
+bok choy,e
+pak choi,c
+"Cabbage, kimchi",c
+"Cardoon, raw",c
+"Cardoon, cooked, boiled",b
+"Carrots, raw",b
+"Carrots, cooked, boiled",b
+"Carrots, canned, regular pack",c
+"Carrots, frozen, unprepared ",c
+"Carrots, frozen, cooked",c
+"Cassava, raw",c
+"Cauliflower, raw",c
+"Cauliflower, cooked, boiled",c
+"Cauliflower, frozen, unprepared",c
+"Cauliflower, frozen, cooked",c
+"Celeriac, raw",c
+"Celeriac, cooked, boiled",c
+"Celery, raw",c
+"Celery, cooked, boiled",c
+"Celtuce, raw",c
+"Chard, swiss, raw",c
+"Chard, swiss, cooked",c
+"Chayote, fruit, raw",c
+christophine,c
+"Chayote, fruit, cooked",c
+christophine,c
+"Chicory, witloof, raw",c
+"Chicory greens, raw",c
+"Chicory roots, raw",b
+"Chives, raw",c
+"Chrysanthemum, garland, raw",c
+"Chrysanthemum, garland, cooked",c
+"Collards, raw",c
+"Collards, cooked, boiled",c
+"Collards, frozen, chopped",c
+"Coriander leaves, raw",c
+Chinese parsley,c
+raw,c
+Cilantro,c
+raw,c
+"Corn, sweet, yellow",c
+"Corn, yellow, whole kernel",b
+"Corn with red and green peppers, canned, solids and liquids",b
+"Cornsalad, raw",c
+"Cowpeas , immature seeds, raw",c
+"Cowpeas , immature seeds, cooked",c
+"Cowpeas , immature seeds, frozen",b
+"Cowpeas, young pods with seeds, raw",c
+"Cowpeas, young pods with seeds, cooked",c
+"Yardlong bean, raw",c
+"Yardlong bean, cooked, boiled",c
+"Cowpeas, leafy tips, raw",c
+"Cowpeas, leafy tips, cooked",d
+"Cress, garden, raw",b
+"Cress, garden, cooked",c
+"Cucumber, with peel, raw",b
+"Cucumber, peeled, raw",c
+"Dandelion greens, raw",b
+"Dandelion greens, cooked, boiled",b
+"Eggplant, raw",b
+"Eggplant, cooked, boiled",c
+"Edamame, frozen, unprepared",c
+"Edamame, frozen, prepared",b
+"Endive, raw",b
+"Escarole, cooked, boiled",b
+"Garlic, raw",b
+"Ginger root, raw",b
+"Gourd, white-flowered , raw",c
+"Gourd, white-flowered , cooked",b
+"Gourd, dishcloth , raw",b
+"Gourd, dishcloth , cooked",a
+"Drumstick leaves, raw",b
+Harseradish tree leaves,b
+"Drumstick leaves, cooked, boiled",a
+Horseradish-tree,b
+"Hyacinth-beans, immature seeds, raw",b
+"Hyacinth-beans, immature seeds, cooked",c
+"Jerusalem-artichokes, raw",b
+Sunchokes,b
+"Jew's ear, raw",a
+"Pepeao, dried",b
+"Jute, potherb, raw",c
+"Jute, potherb, cooked",c
+"Kale, raw",b
+"Kale, cooked, boiled",c
+"Kale, frozen, unprepared",b
+"Kale, frozen, cooked",b
+"Kanpyo, ",b
+"Mushrooms, shiitake, raw",b
+"Mushrooms, Chanterelle, raw",b
+"Mushrooms, morel, raw",b
+"Kohlrabi, raw",b
+"Kohlrabi, cooked, boiled",b
+"Mushrooms, portabella, grilled",b
+Portobello,b
+"Lambsquarters, raw",c
+"Lambsquarters, cooked, boiled",b
+"Leeks, raw",b
+"Leeks, cooked",b
+"Lentils, sprouted, raw",c
+"Lentils, sprouted, cooked",c
+"Lettuce, butterhead , raw",c
+"Lettuce, cos or romaine, raw",c
+"Lettuce, iceberg, raw",b
+"Lettuce, green leaf, raw",c
+"Lotus root, raw",b
+"Lotus root, cooked, boiled",b
+"Lettuce, red leaf, raw",b
+"Mountain yam, hawaii, raw",a
+"Mountain yam, hawaii, cooked",c
+"Mushrooms, white, raw",b
+"Mushrooms, white, cooked",a
+"Mushrooms, white, stir-fried",c
+"Mushrooms, canned, drained solids",b
+"Mushrooms, portabella, raw",c
+Portabello,c
+"Mushrooms, brown, italian",c
+"Mushrooms, shiitake, stir-fried",c
+"Mushrooms, shiitake, dried",b
+"Mushrooms, shiitake, cooked",b
+"Mustard greens, raw",b
+"Mustard greens, cooked, boiled",c
+"Mustard greens, frozen, unprepared",b
+"Mustard greens, frozen, cooked",c
+"Mustard spinach, raw",c
+"Mustard spinach, cooked",a
+"New Zealand spinach, raw",c
+"New Zealand spinach, cooked, boiled",b
+"Okra, raw",c
+"Okra, cooked, boiled",c
+"Okra, frozen, unprepared",b
+"Okra, frozen, cooked",c
+"Onions, raw",c
+"Onions, cooked, boiled",c
+"Onions, dehydrated flakes",c
+"Onions, canned, solids and liquids",b
+"Onions, yellow, sauteed",c
+"Onions, frozen, chopped",b
+"Onions, frozen, whole",b
+"Onions, spring or scallions, raw",a
+"Onions, young green, tops only",b
+"Onions, welsh, raw",b
+"Onions, sweet, raw",b
+"Onion rings, breaded, par fried",c
+"Parsley, fresh",b
+"Parsnips, raw",c
+"Parsnips, cooked, boiled",b
+"Peas, edible-podded, raw",b
+Snowpeas,c
+Sugar snap peas,b
+"Peas, edible-podded, boiled",b
+Sugar snap peas,d
+Snowpeas,c
+"Peas, edible-podded, frozen",c
+Sugar snap peas,c
+Snowpeas,c
+"Peas, green, raw",c
+"Peas, green, cooked",b
+"Peas, green, canned",c
+"Peas, green , canned",c
+"Peas, green, frozen",b
+"Peas, mature seeds, sprouted",c
+"Peas and carrots, canned, regular pack",c
+"Peas and carrots, frozen, unprepared",c
+"Peas and carrots, frozen, cooked",c
+"Peas and onions, canned, solids and liquids",c
+"Peas and onions, frozen, unprepared",c
+"Peas and onions, frozen, cooked",c
+"Peppers, hot chili, green",c
+"Peppers, sweet, green",c
+"Pigeonpeas, immature seeds, raw",c
+"Pigeonpeas, immature seeds, cooked",c
+Poi,b
+"Pokeberry shoots, raw",c
+"Pokeberry shoots, cooked",b
+"Potatoes, flesh and skin, raw",c
+"Potatoes, russet, flesh and skin",a
+"Potatoes, white, flesh and skin",a
+"Potatoes, red, flesh and skin",a
+"Potatoes, Russet, flesh and skin",a
+"Potatoes, french fried, crinkle or regular cut",a
+"Potatoes, roasted, salt added in processing",b
+"Potatoes, raw, skin",b
+"Potatoes, baked, flesh",e
+"Potatoes, baked, skin",c
+"Potatoes, boiled, cooked in skin",b
+"Potatoes, boiled, cooked without skin",c
+"Potatoes, microwaved, cooked in skin",b
+"Potatoes, hash brown, home-prepared",b
+Potatoes,b
+hashed brown,c
+"Potatoes, mashed, home-prepared",c
+"Potatoes, scalloped, home-prepared with butter",c
+"Potatoes, au gratin, home-prepared from recipe using butter",b
+"Potatoes, canned, solids and liquids",c
+"Potatoes, canned, drained solids",b
+"Potatoes, mashed, dehydrated",b
+"Potatoes, au gratin, dry mix",b
+"Potatoes, scalloped, dry mix",d
+"Potatoes, hash brown, frozen",c
+Potatoes,c
+hashed brown,b
+"Potatoes, french fried, shoestring",a
+"Potatoes, o'brien, frozen",d
+"Potato puffs, frozen, unprepared",d
+"Potato puffs, frozen, oven-heated",d
+"Potatoes, frozen, whole",e
+"Potatoes, french fried, all types",b
+"Potatoes, french fried, cottage-cut",a
+"Potatoes, frozen, french fried",b
+"Potato wedges, frozen ",b
+"Potatoes, french fried, steak fries",a
+Potato flour,b
+"Potato salad, home-prepared",b
+"Pumpkin flowers, raw",b
+"Pumpkin flowers, cooked, boiled",c
+"Pumpkin leaves, raw",a
+"Pumpkin leaves, cooked, boiled",d
+"Pumpkin, raw",c
+"Pumpkin, cooked, boiled",a
+"Pumpkin, canned, without salt",b
+"Pumpkin pie mix, canned",a
+"Purslane, raw",a
+"Purslane, cooked, boiled",c
+"Radishes, raw",d
+"Radishes, oriental, raw",d
+"Radishes, oriental, cooked",d
+"Radishes, oriental, dried",c
+"Rutabagas, raw",c
+"Rutabagas, cooked, boiled",b
+"Salsify, raw",c
+"Salsify, cooked, boiled",b
+"Sauerkraut, canned, solids and liquids",b
+"Seaweed, agar, raw",b
+"Seaweed, irishmoss, raw",c
+"Seaweed, kelp, raw",b
+"Seaweed, laver, raw",c
+"Sesbania flower, raw",c
+"Sesbania flower, cooked, steamed",c
+"Soybeans, green, raw",c
+"Soybeans, green, cooked",c
+"Soybeans, mature seeds, sprouted",c
+"Spinach, raw",c
+"Spinach, cooked, boiled",d
+"Spinach, canned, regular pack",d
+"Spinach, frozen, chopped or leaf",d
+"Squash, summer, crookneck and straightneck",d
+"Squash, summer, scallop",d
+"Squash, summer, zucchini",d
+"Squash, winter, acorn",d
+"Squash, winter, butternut",d
+"Squash, winter, hubbard",d
+"Squash, winter, spaghetti",d
+"Succotash, raw",d
+"Succotash, cooked",d
+"Succotash, canned",e
+"Succotash, frozen",c
+"Water convolvulus, raw",c
+kangkong,e
+water spinach,c
+"Water convolvulus, cooked, boiled",d
+Kangkong,d
+Water spinach,d
+"Sweet potato leaves, raw",c
+Sweetpotato leaves,d
+"Sweet potato leaves, cooked, steamed",d
+Sweetpotato leaves,c
+"Sweet potato, raw, unprepared ",c
+Sweetpotato,c
+"Sweet potato, cooked, baked in skin",d
+Sweetpotato,d
+"Sweet potato, cooked, boiled",d
+Sweetpotato,d
+"Sweet potato, canned, vacuum pack",c
+Sweetpotato,d
+"Sweet potato, canned, mashed",d
+Sweetpotato,d
+"Sweet potato, frozen, unprepared ",c
+Sweetpotato,d
+"Sweet potato, frozen, cooked",d
+Sweetpotato,d
+"Taro, raw",c
+"Taro, cooked, without salt",c
+"Taro leaves, raw",e
+"Taro leaves, cooked, steamed",c
+"Taro shoots, raw",d
+"Taro shoots, cooked, without salt",d
+"Taro, tahitian, raw",c
+"Taro, tahitian, cooked",c
+"Tomatoes, green, raw",d
+"Tomatoes, red, ripe",d
+"Tomato juice, canned, with salt added",c
+"Tomato products, canned, paste",e
+"Tomato products, canned, puree",d
+Tomato powder,d
+"Tomato products, canned, sauce",c
+"Tree fern, cooked, without salt",d
+"Turnips, raw",d
+"Turnips, cooked, boiled",d
+"Turnips, frozen, unprepared",d
+"Turnips, frozen, cooked",e
+"Turnip greens, raw",c
+"Turnip greens, cooked, boiled",c
+"Turnip greens, canned, solids and liquids",d
+"Turnip greens, frozen, unprepared",d
+"Turnip greens, frozen, cooked",c
+"Turnip greens and turnips, frozen, unprepared",e
+"Turnip greens and turnips, frozen, cooked",e
+"Vegetable juice cocktail, canned",d
+"Vegetables, mixed, canned",d
+"Vegetables, mixed, frozen",d
+"Vegetable juice cocktail, low sodium, canned",d
+"Vinespinach, raw",d
+"Waterchestnuts, chinese",e
+"Waterchestnuts, chinese, canned",c
+"Watercress, raw",c
+"Waxgourd, raw",c
+"Waxgourd, cooked",c
+"Winged beans, immature seeds, raw",d
+"Winged beans, immature seeds, cooked",d
+"Winged bean leaves, raw",d
+"Winged bean tuber, raw",d
+"Yam, raw",c
+"Yam, cooked, boiled",d
+"Yambean, raw",d
+"Yambean, cooked, boiled",d
+"Beets, harvard, canned",c
+"Beets, pickled, canned",d
+"Borage, raw",d
+"Borage, cooked, boiled",e
+"Chives, freeze-dried",e
+"Dock, raw",c
+"Dock, cooked, boiled",c
+"Eppaw, raw",d
+"Drumstick pods, raw",d
+Horseradish tree pods,c
+"Drumstick pods, cooked, boiled",c
+Horseradish tree pods,c
+"Leeks, freeze-dried",c
+"Parsley, freeze-dried",c
+"Beans, mung, mature seeds",d
+"Peppers, jalapeno, canned",d
+"Radishes, white icicle, raw",d
+"Shallots, freeze-dried",d
+"Squash, summer, all varieties",d
+"Squash, winter, all varieties",d
+"Sweet potato, canned, syrup pack",d
+Sweetpotato,d
+"Beans, pinto, mature seeds",d
+"Carrot juice, canned",e
+"Corn pudding, home prepared",e
+Spinach souffle,d
+"Sweet potato, cooked, candied",d
+Sweetpotato,d
+"Seaweed, agar, dried",d
+"Seaweed, spirulina, raw",d
+"Seaweed, spirulina, dried",d
+"Seaweed, wakame, raw",d
+"Potatoes, o'brien, home-prepared",d
+Potato pancakes,c
+"Potatoes, baked, flesh and skin",d
+"Radish seeds, sprouted, raw",e
+"Shallots, raw",e
+"Carrot, dehydrated",c
+"Tomatoes, crushed, canned",d
+"Tomatoes, orange, raw",d
+"Tomatoes, yellow, raw",c
+"Arrowroot, raw",d
+"Chrysanthemum leaves, raw",d
+"Asparagus, canned, no salt added",c
+"Beans, snap, yellow",c
+"Beets, cooked, boiled. drained",c
+"Beets, canned, no salt added",d
+"Broccoli, leaves, raw",c
+"Broccoli, flower clusters, raw",d
+"Broccoli, stalks, raw",c
+"Cabbage, common (danish, domestic)",c
+"Cabbage, common, cooked",c
+"Carrots, canned, no salt added",c
+"New zealand spinach, cooked, boiled",c
+"Peas, edible-podded, cooked",c
+Sugar snap peas,c
+Snowpeas,c
+"Peas and carrots, canned, no salt added",c
+"Peppers, hot chili, red",c
+"Peppers, sweet, red",c
+"Potatoes, baked, skin only",c
+"Potatoes, microwaved, cooked",c
+"Potatoes, au gratin, home-prepared from recipe using margarine",d
+"Potatoes, scalloped, home-prepared with margarine",c
+"Pumpkin, canned, with salt",c
+"Pumpkin, flowers, cooked",c
+"Spinach, canned, no salt added",c
+"Taro, cooked, with salt",c
+"Taro, leaves, cooked",c
+"Taro, shoots, cooked",d
+"Tomato juice, canned, without salt added",d
+"Winged bean, immature seeds, cooked",d
+"Corn, sweet, white",d
+"Tree fern, cooked, with salt",c
+"Potatoes, mashed, prepared from granules",c
+Catsup,c
+Ketchup,d
+"Pickles, cucumber, dill or kosher dill",c
+"Mushroom, white, exposed to ultraviolet light",d
+"Mushrooms, portabella, exposed to ultraviolet light",d
+portobella,c
+"Pickles, cucumber, sweet ",d
+"Pickles, cucumber, sour",d
+"Pimento, canned",d
+"Pickle relish, hot dog",c
+"Pickle relish, sweet",d
+"Pickles, cucumber, dill",d
+"Pickles, cucumber, sweet",d
+"Catsup, low sodium",e
+Ketchup,c
+low sodium,c
+"Mushrooms, enoki, raw",e
+"Peppers, sweet, yellow",d
+"Radicchio, raw",a
+"Squash, zucchini, baby",c
+"Tomatillos, raw",c
+"Tomatoes, sun-dried",e
+"Tomatoes, sun-dried, packed in oil",c
+"Fennel, bulb, raw",d
+"Pickle relish, hamburger",c
+"Arugula, raw",d
+"Carrots, baby, raw",d
+"Hearts of palm, canned",c
+"Peppers, hot chile, sun-dried",c
+"Nopales, raw",d
+"Nopales, cooked, without salt",c
+"Cauliflower, green, raw",c
+"Cauliflower, green, cooked",e
+"Broccoli, chinese, cooked",c
+"Cabbage, napa, cooked",d
+"Lemon grass , raw",b
+"Beans, fava, in pod",d
+"Grape leaves, raw",d
+"Grape leaves, canned",c
+"Pepper, banana, raw",c
+"Peppers, serrano, raw",d
+"Peppers, ancho, dried",d
+"Peppers, jalapeno, raw",d
+"Peppers, chili, green",c
+"Peppers, hungarian, raw",d
+"Peppers, pasilla, dried",e
+"Pickles, chowchow, with cauliflower onion mustard",e
+"Epazote, raw",c
+"Fireweed, leaves, raw",d
+"Malabar spinach, cooked",d
+"Mushrooms, oyster, raw",c
+"Fungi, Cloud ears, dried",d
+"Mushrooms, straw, canned",d
+"Wasabi, root, raw",c
+"Yautia , raw",d
+"Mushrooms, white, microwaved",d
+"Mushrooms, maitake, raw",d
+"Broccoli, chinese, raw",c
+gai-lan,d
+kai-lan,d
+"Fiddlehead ferns, raw",d
+"Fiddlehead ferns, frozen, unprepared",d
+"Seeds, breadfruit seeds, raw",d
+"Seeds, breadfruit seeds, boiled",d
+"Seeds, breadnut tree seeds, raw",c
+"Seeds, breadnut tree seeds, dried",d
+"Seeds, chia seeds, dried",a
+"Seeds, cottonseed flour, partially defatted ",c
+"Seeds, cottonseed flour, low fat ",d
+"Seeds, cottonseed meal, partially defatted ",c
+"Seeds, hemp seed, hulled",e
+"Seeds, lotus seeds, dried",e
+"Seeds, pumpkin and squash seed kernels, dried",d
+pepitas,b
+"Seeds, pumpkin and squash seed kernels, roasted",d
+pepitas,d
+"Seeds, safflower seed kernels, dried",c
+"Seeds, safflower seed meal, partially defatted",c
+"Seeds, sesame seeds, whole",c
+"Seeds, sesame seed kernels, toasted",c
+"Seeds, sesame flour, partially defatted",c
+"Seeds, sesame flour, low-fat",c
+"Seeds, sesame meal, partially defatted",c
+"Seeds, sunflower seed kernels, dried",c
+"Seeds, sunflower seed kernels, dry roasted",d
+"Seeds, sunflower seed kernels, oil roasted",a
+"Seeds, sunflower seed kernels, toasted",d
+"Seeds, sunflower seed butter, without salt",d
+"Seeds, sunflower seed flour, partially defatted",d
+"Nuts, acorns, raw",c
+"Nuts, acorns, dried",b
+"Nuts, acorn flour, full fat",b
+"Nuts, almonds",c
+"Nuts, almonds, blanched",c
+"Nuts, almonds, dry roasted",d
+Includes USDA commodity food A255,c
+A263,c
+"Nuts, almonds, oil roasted",c
+"Nuts, almond paste",b
+"Nuts, beechnuts, dried",c
+"Nuts, brazilnuts, dried",c
+brazil nuts,e
+"Nuts, butternuts, dried",c
+"Nuts, cashew nuts, dry roasted",c
+"Nuts, cashew nuts, oil roasted",c
+"Nuts, cashew nuts, raw",c
+"Nuts, cashew butter, plain",a
+"Nuts, chestnuts, chinese",c
+"Nuts, chestnuts, european",c
+"Nuts, coconut meat, raw",d
+"Nuts, coconut meat, dried ",c
+"Nuts, coconut cream, raw ",c
+"Nuts, coconut cream, canned",b
+"Nuts, coconut milk, raw ",b
+"Nuts, coconut milk, canned ",c
+"Nuts, coconut water ",a
+"Nuts, hazelnuts or filberts",b
+"Nuts, hazelnuts or filberts, blanched",d
+"Nuts, hazelnuts or filberts, dry roasted",a
+"Nuts, ginkgo nuts, raw",a
+"Nuts, ginkgo nuts, dried",b
+"Nuts, ginkgo nuts, canned",c
+"Nuts, hickorynuts, dried",a
+"Nuts, macadamia nuts, raw",a
+"Nuts, macadamia nuts, dry roasted",c
+"Nuts, mixed nuts, dry roasted",b
+"Nuts, mixed nuts, oil roasted",c
+"Nuts, formulated, wheat-based",c
+"Nuts, pecans",b
+"Nuts, pecans, dry roasted",b
+"Nuts, pecans, oil roasted",a
+"Nuts, pilinuts, dried",b
+"Nuts, pine nuts, dried",a
+"Nuts, pine nuts, pinyon",a
+pinon,b
+"Nuts, pistachio nuts, raw",b
+"Nuts, pistachio nuts, dry roasted",a
+"Nuts, walnuts, black",a
+"Nuts, walnuts, english",a
+"Nuts, walnuts, glazed",a
+"Nuts, walnuts, dry roasted",a
+"Seeds, breadfruit seeds, roasted",a
+"Seeds, cottonseed kernels, roasted ",c
+"Seeds, pumpkin and squash seeds, whole",c
+"Seeds, sesame butter, tahini",b
+"Seeds, sesame butter, paste",c
+"Seeds, sesame flour, high-fat",c
+"Seeds, watermelon seed kernels, dried",b
+"Nuts, chestnuts, japanese",d
+"Nuts, coconut milk, frozen ",a
+"Seeds, sisymbrium sp. seeds, whole",a
+"Nuts, almond butter, plain",a
+"Seeds, sesame seed kernels, dried ",a
+"Seeds, lotus seeds, raw",a
+"Nuts, almonds, honey roasted",a
+"Seeds, flaxseed",a
+"Seeds, sunflower seed kernels from shell, dry roasted",b
+"Seeds, sunflower seed butter, with salt added ",a
+"Beef, grass-fed, strip steaks",a
+"Beef, carcass, separable lean and fat",a
+"Beef, retail cuts, separable fat",b
+"Beef, brisket, whole",b
+"Beef, grass-fed, ground",b
+Hamburger,b
+"Beef, brisket, flat half",b
+URMIS #1623,a
+"Beef, flank, steak",b
+URMIS #2399,b
+"Beef, rib, eye",a
+ribeye,a
+Delmonico,b
+"Beef, rib, shortribs",c
+URMIS #2074,a
+"Beef, round, full cut",c
+"Beef, shank crosscuts, separable lean only",d
+"Beef, short loin, porterhouse steak",a
+Porterhouse Steak,b
+URMIS # 2145,d
+"Beef, short loin, t-bone steak",d
+T-Bone Steak,c
+URMIS # 2184,e
+"Beef, rib eye, small end ",b
+"Beef, chuck, under blade pot roast",b
+URMIS #1151,b
+Beef,b
+Chuck,b
+Under Blade Pot Roast,c
+"Beef, chuck, under blade pot roast or steak",c
+Beef,c
+Chuck,a
+Under Blade Pot Roast or Steak,a
+URMIS #1151,c
+URMIS #1158,a
+"Beef, ground, patties",c
+hamburger,a
+"Beef, variety meats and by-products, brain",b
+"Beef, variety meats and by-products, heart",c
+"Beef, variety meats and by-products, kidneys",a
+"Beef, variety meats and by-products, liver",a
+"Beef, variety meats and by-products, lungs",c
+"Beef, variety meats and by-products, mechanically separated beef",c
+"Beef, variety meats and by-products, pancreas",c
+"Beef, variety meats and by-products, spleen",c
+"Beef, variety meats and by-products, suet",c
+"Beef, variety meats and by-products, thymus",c
+"Beef, variety meats and by-products, tongue",c
+"Beef, variety meats and by-products, tripe",c
+"Beef, sandwich steaks, flaked",c
+"Beef, cured, breakfast strips",c
+"Beef, cured, corned beef",c
+"Beef, cured, dried",c
+"Beef, chuck, under blade center steak",c
+Beef,b
+Chuck,d
+Denver Cut (Serratus Ventralis Steaks),b
+URMIS #1098,c
+"Beef, cured, luncheon meat",d
+"Beef, cured, pastrami",a
+"Sausage, beef, cured",a
+"Beef, chopped, cured",c
+"Beef, composite of trimmed retail cuts, separable lean and fat",a
+"Beef, composite of trimmed retail cuts, separable lean only",d
+"Beef, brisket, point half",e
+URMIS #1628,d
+"Beef, chuck, arm pot roast",d
+"Beef, chuck, blade roast",d
+Top Blade Steak,c
+"Beef, rib, large end ",b
+"Beef, rib, small end ",d
+"Beef, round, bottom round",d
+Cube Steak,a
+"Beef, round, bottom round roast",a
+URMIS #1464,a
+"Beef, round, eye of round roast",b
+Eye of Round Roast,d
+"Beef, round, tip round",c
+Cube steak,c
+"Beef, round, top round",a
+London Broil,b
+Cube steak,a
+Round Steak,a
+Minute Steak,a
+"Beef, loin, tenderloin steak",a
+Filet Mignon,a
+Tenderloin Steak,a
+Beef Medallions,d
+"Beef, loin, top loin steak",b
+Kansas City Strip,c
+Boneless Strip Steak,c
+Club Steak,a
+New York Strip,c
+"Beef, top sirloin, steak",c
+Sirloin strip,c
+Sirloin steak,c
+"Beef, round, top round steak",a
+Top Round Steak,a
+"Beef, ground, 70% lean meat / 30% fat",c
+Hamburger,a
+"Beef, shoulder top blade steak, boneless",a
+Beef,b
+Chuck,c
+Top Blade Steak,c
+URMIS #1144,d
+"Beef, shoulder pot roast or steak, boneless",d
+URMIS #1132,d
+URMIS #1133,c
+Beef,d
+Chuck,a
+Clod (Shoulder) Roast or Steak,c
+"Beef, chuck eye roast, boneless",d
+URMIS #1095,d
+"Beef, rib, whole ",d
+"Beef, round, eye of round",e
+"Beef, short loin, top loin",a
+Kansas City Strip,d
+Club Steak,b
+Boneless Strip Steak,c
+New York Strip,c
+"Beef, loin, top loin",c
+Kansas City Strip,c
+Club Steak,c
+Boneless Strip Steak,e
+New York Strip,b
+"Beef, tenderloin, steak",b
+Filet Mignon,c
+Beef Medallions,c
+"Beef, tenderloin, roast",a
+Filet Mignon,b
+Beef Medallions,a
+"Beef, tenderloin, separable lean and fat",a
+Filet Mignon,c
+Beef Medallions,b
+"Beef, chuck, clod roast",d
+URMIS #1947,c
+"Beef, shoulder steak, boneless",e
+URMIS #1133,c
+"Beef, bottom sirloin, tri-tip roast",b
+"Beef, chuck, mock tender steak",b
+URMIS #1931,b
+Mock Tender Steak,b
+"Beef, chuck, top blade",a
+URMIS #1959,b
+Top Blade Roast,b
+Boneless,a
+"Beef, plate, inside skirt steak",b
+Plate Skirt Steak,a
+"Beef, plate, outside skirt steak",a
+Plate Skirt Steak,a
+"Beef, chuck, short ribs",a
+Beef,c
+Chuck,a
+Short Ribs,c
+URMIS #1127,c
+"Beef, loin, bottom sirloin butt",d
+"Fish, anchovy, european",c
+"Fish, bass, fresh water",b
+"Fish, bass, striped",d
+"Fish, bluefish, raw",b
+"Fish, burbot, raw",a
+"Fish, butterfish, raw",a
+"Fish, carp, raw",c
+"Fish, carp, cooked",c
+"Fish, catfish, channel",d
+"Fish, caviar, black and red",d
+"Fish, cisco, raw",c
+"Fish, cisco, smoked",a
+"Fish, cod, Atlantic",b
+"Fish, cod, Pacific",c
+"Fish, croaker, Atlantic",c
+"Fish, cusk, raw",c
+"Fish, mahimahi, raw",b
+"Fish, drum, freshwater",c
+"Fish, eel, mixed species",b
+"Fish, fish sticks, frozen",c
+"Fish, flatfish , raw",b
+"Fish, flatfish , cooked",c
+"Fish, gefiltefish, commercial",c
+"Fish, grouper, mixed species",c
+"Fish, haddock, raw",a
+"Fish, haddock, cooked",a
+"Fish, haddock, smoked",a
+"Fish, halibut, Atlantic and Pacific",e
+"Fish, halibut, Greenland",b
+"Fish, herring, Atlantic",c
+"Fish, herring, Pacific",d
+"Fish, ling, raw",c
+"Fish, lingcod, raw",b
+"Fish, mackerel, Atlantic",b
+"Fish, mackerel, jack",c
+"Fish, mackerel, king",c
+"Fish, mackerel, Pacific and jack",c
+"Fish, mackerel, spanish",c
+"Fish, milkfish, raw",a
+"Fish, monkfish, raw",c
+"Fish, mullet, striped",c
+"Fish, ocean perch, Atlantic",c
+"Fish, pout, ocean",b
+"Fish, perch, mixed species",c
+"Fish, pike, northern",c
+"Fish, pike, walleye",c
+"Fish, pollock, Atlantic",b
+"Fish, pollock, Alaska",b
+"Fish, pompano, florida",c
+"Fish, rockfish, Pacific",c
+"Fish, roe, mixed species",b
+"Fish, roughy, orange",c
+"Fish, sablefish, raw",b
+"Fish, sablefish, smoked",c
+"Fish, salmon, Atlantic",c
+"Fish, salmon, chinook",d
+"Fish, salmon, chum",d
+"Fish, salmon, coho",c
+"Fish, salmon, pink",c
+"Fish, salmon, sockeye",a
+"Fish, sardine, Atlantic",c
+"Fish, sardine, Pacific",c
+"Fish, scup, raw",c
+"Fish, sea bass, mixed species",c
+"Fish, seatrout, mixed species",c
+"Fish, shad, american",c
+"Fish, shark, mixed species",c
+"Fish, sheepshead, raw",d
+"Fish, sheepshead, cooked",a
+"Fish, smelt, rainbow",c
+"Fish, snapper, mixed species",c
+"Fish, spot, raw",c
+"Fish, sturgeon, mixed species",a
+"Fish, sucker, white",d
+"Fish, sunfish, pumpkin seed",c
+"Fish, surimi",c
+"Fish, swordfish, raw",c
+"Fish, swordfish, cooked",c
+"Fish, tilefish, raw",a
+"Fish, tilefish, cooked",c
+"Fish, trout, mixed species",c
+"Fish, trout, rainbow",b
+"Fish, tuna, fresh",b
+"Fish, tuna, light",b
+"Fish, tuna, white",b
+"Fish, tuna salad",c
+"Fish, turbot, european",b
+"Fish, whitefish, mixed species",b
+"Fish, whiting, mixed species",b
+"Fish, wolffish, Atlantic",b
+"Fish, yellowtail, mixed species",a
+"Crustaceans, crab, alaska king",c
+"Crustaceans, crab, blue",b
+"Crustaceans, crab, dungeness",d
+"Crustaceans, crab, queen",c
+"Crustaceans, crayfish, mixed species",c
+"Crustaceans, lobster, northern",c
+"Crustaceans, shrimp, mixed species",c
+"Crustaceans, spiny lobster, mixed species",b
+"Mollusks, abalone, mixed species",b
+"Mollusks, clam, mixed species",a
+"Mollusks, cuttlefish, mixed species",b
+"Mollusks, mussel, blue",c
+"Mollusks, octopus, common",a
+"Mollusks, oyster, eastern",a
+"Mollusks, oyster, Pacific",b
+"Mollusks, scallop, mixed species",b
+"Mollusks, squid, mixed species",b
+"Mollusks, whelk, unspecified",b
+"Fish, bass, freshwater",b
+"Fish, bluefish, cooked",b
+"Fish, burbot, cooked",b
+"Fish, butterfish, cooked",c
+"Fish, cusk, cooked",a
+"Fish, mahimahi, cooked",c
+"Fish, halibut, greenland",b
+"Fish, ling, cooked",b
+"Fish, lingcod, cooked",b
+"Fish, milkfish, cooked",a
+"Fish, monkfish, cooked",b
+"Fish, sablefish, cooked",c
+"Fish, scup, cooked",b
+"Fish, spot, cooked",b
+"Fish, tuna, skipjack",b
+"Fish, tuna, yellowfin",b
+"Mollusks, conch, baked or broiled",b
+"Salmon nuggets, breaded, frozen",a
+"Salmon nuggets, cooked as purchased, unheated",b
+"Salmon, sockeye, canned",a
+"Fish, tilapia, raw",b
+"Fish, tilapia, cooked",c
+"Fish, Salmon, pink",b
+"Crustaceans, shrimp, raw",b
+"Crustaceans, shrimp, cooked",b
+"Fish, trout, brook",b
+"Beans, adzuki, mature seeds",c
+"Yokan, prepared from adzuki beans and sugar",c
+"Beans, baked, home prepared",a
+"Beans, baked, canned",a
+"Beans, black, mature seeds",c
+"Beans, black turtle, mature seeds",a
+"Beans, cranberry , mature seeds",a
+"Beans, french, mature seeds",a
+"Beans, great northern, mature seeds",b
+"Beans, kidney, all types",c
+"Beans, kidney, california red",a
+"Beans, kidney, red",b
+"Beans, kidney, royal red",d
+"Beans, pink, mature seeds",b
+"Beans, small white, mature seeds",a
+"Beans, yellow, mature seeds",b
+"Beans, white, mature seeds",c
+"Broadbeans, mature seeds, raw",a
+"Broadbeans, mature seeds, cooked",a
+"Broadbeans, mature seeds, canned",c
+Carob flour,a
+"Chickpeas , mature seeds",a
+"Chili with beans, canned",a
+"Cowpeas, catjang, mature seeds",a
+"Cowpeas, common (blackeyes, crowder",b
+"Hyacinth beans, mature seeds, raw",a
+"Hyacinth beans, mature seeds, cooked",b
+"Lentils, raw",b
+"Lentils, mature seeds, cooked",b
+"Lima beans, large, mature seeds",c
+"Lima beans, thin seeded , mature seeds",b
+"Lupins, mature seeds, raw",b
+"Lupins, mature seeds, cooked",b
+"Mothbeans, mature seeds, raw",b
+mat bean,b
+moth bean,b
+"Mothbeans, mature seeds, cooked",c
+mat bean,b
+moth bean,c
+"Mung beans, mature seeds, raw",b
+"Mung beans, mature seeds, cooked",a
+"Noodles, chinese, cellophane or long rice ",c
+"Mungo beans, mature seeds, raw",c
+"Mungo beans, mature seeds, cooked",b
+"Peas, green, split",b
+"Peas, split, mature seeds",a
+"Peanuts, all types, raw",c
+"Peanuts, all types, cooked",a
+"Peanuts, all types, oil-roasted",c
+"Peanuts, all types, dry-roasted",a
+"Peanuts, spanish, raw",b
+"Peanuts, spanish, oil-roasted",b
+"Peanuts, valencia, raw",b
+"Peanuts, valencia, oil-roasted",c
+"Peanuts, virginia, raw",b
+"Peanuts, virginia, oil-roasted",c
+"Peanut butter, chunk style, with salt",b
+"Peanut butter, smooth style, with salt ",b
+"Peanut flour, defatted",b
+"Peanut flour, low fat",a
+"Pigeon peas , mature seeds, raw",b
+"Pigeon peas , mature seeds, cooked",b
+"Refried beans, canned, traditional style",b
+"Bacon, meatless",a
+Meat extender,a
+"Sausage, meatless",a
+"Soybeans, mature seeds, raw",c
+"Soybeans, mature cooked, boiled",b
+"Soybeans, mature seeds, roasted",a
+"Soybeans, mature seeds, dry roasted",a
+Soy nuts,b
+Miso,b
+Natto,b
+Tempeh,a
+"Soy flour, full-fat, raw",b
+"Soy flour, full-fat, roasted",b
+"Soy flour, defatted",b
+"Soy flour, low-fat",b
+"Soy meal, defatted, raw",b
+"Soymilk, original and vanilla, unfortified",c
+"Soy protein concentrate, produced by alcohol extraction",b
+Soy protein isolate,b
+Soy sauce made from soy and wheat,c
+Soy sauce made from soy,b
+Soy sauce made from hydrolyzed vegetable protein,b
+"Tofu, firm, prepared with calcium sulfate and magnesium chloride ",a
+"Tofu, soft, prepared with calcium sulfate and magnesium chloride ",c
+"Tofu, dried-frozen ",c
+"Tofu, fried",c
+Okara,b
+"Tofu, salted and fermented ",c
+"Yardlong beans, mature seeds, raw",c
+"Yardlong beans, mature seeds, cooked",a
+"Winged beans, mature seeds, raw",a
+"Winged beans, mature seeds, cooked",a
+"Hummus, home prepared",a
+"Falafel, home-prepared",c
+"Soymilk, original and vanilla, with added calcium",b
+"Lentils, pink or red, raw",b
+"Beans, pinto, canned",b
+"Veggie burgers or soyburgers, unprepared",a
+"Peanut spread, reduced sugar",a
+"Peanut butter, smooth, reduced fat",a
+"Peanut butter, smooth, vitamin and mineral fortified",b
+"Peanut butter, chunky, vitamin and mineral fortified",b
+Chickpea flour,b
+"Hummus, commercial",a
+"Tofu, extra firm, prepared with nigari",a
+"Tofu, hard, prepared with nigari",b
+"Tofu, silken",b
+"Soymilk, chocolate, unfortified",c
+"Peanut Butter, smooth ",b
+"Soymilk, chocolate, with added calcium",c
+"Refried beans, canned, vegetarian",a
+"Refried beans, canned, fat-free",a
+Frijoles rojos volteados ,b
+"Tempeh, cooked",a
+"Vitasoy USA, Nasoya Lite Firm Tofu",a
+"Vitasoy USA, Organic Nasoya Super Firm Cubed Tofu",b
+"Vitasoy USA, Organic Nasoya Extra Firm Tofu",a
+"Vitasoy USA, Organic Nasoya Firm Tofu",b
+"Vitasoy USA, Organic Nasoya Silken Tofu",b
+"Vitasoy USA, Vitasoy Organic Creamy Original Soymilk",b
+"Vitasoy USA, Vitasoy Organic Classic Original Soymilk",b
+"Vitasoy USA, Vitasoy Light Vanilla Soymilk",b
+"Soymilk , unsweetened, with added calcium",b
+"Soymilk , enhanced",b
+"Soymilk, original and vanilla, light",c
+"Soymilk, chocolate and other flavors, light",c
+"Soymilk, lowfat, with added calcium",c
+"Soymilk, nonfat, with added calcium",b
+"Soymilk, chocolate, nonfat",a
+"SILK Plain, soymilk",a
+"SILK Vanilla, soymilk",b
+"SILK Chocolate, soymilk",a
+"SILK Light Plain, soymilk",b
+"SILK Light Vanilla, soymilk",b
+"SILK Light Chocolate, soymilk",b
+"SILK Plus Omega-3 DHA, soymilk",b
+"SILK Plus for Bone Health, soymilk",b
+"SILK Plus Fiber, soymilk",c
+"SILK Unsweetened, soymilk",c
+"SILK Very Vanilla, soymilk",b
+"SILK Nog, soymilk",a
+"SILK Chai, soymilk",b
+"SILK Mocha, soymilk",b
+"SILK Coffee, soymilk",b
+SILK Vanilla soy yogurt ,c
+SILK Plain soy yogurt,b
+SILK Strawberry soy yogurt,b
+SILK Raspberry soy yogurt,b
+SILK Peach soy yogurt,d
+SILK Black Cherry soy yogurt,c
+SILK Blueberry soy yogurt,a
+SILK Key Lime soy yogurt,b
+SILK Banana-Strawberry soy yogurt,c
+SILK Original Creamer,b
+SILK French Vanilla Creamer,b
+SILK Hazelnut Creamer,b
+"Vitasoy USA Organic Nasoya, Soft Tofu",a
+"Vitasoy USA Nasoya, Lite Silken Tofu",b
+"Vitasoy USA Organic Nasoya, Tofu Plus Extra Firm",c
+"Vitasoy USA Organic Nasoya, Tofu Plus Firm",b
+"Vitasoy USA Organic Nasoya Sprouted, Tofu Plus Super Firm",c
+"Vitasoy USA Azumaya, Extra Firm Tofu",b
+"Vitasoy USA Azumaya, Firm Tofu",b
+"Vitasoy USA Azumaya, Silken Tofu",c
+HOUSE FOODS Premium Soft Tofu,b
+HOUSE FOODS Premium Firm Tofu,a
+"Beans, adzuki, mature seed",c
+"Peanut butter, chunk style, without salt",b
+"Peanut butter, smooth style, without salt",a
+"Peanut butter with omega-3, creamy",b
+"Refried beans, canned, traditional",b
+"Soybeans, mature seeds, cooked",a
+"Soy protein concentrate, produced by acid wash",b
+"Soy protein isolate, potassium type",b
+"Soy sauce made from soy and wheat , low sodium",b
+"Soy sauce, reduced sodium, made from hydrolyzed vegetable protein",c
+"Tofu, raw, firm",b
+"Tofu, raw, regular",a
+"Tofu, dried-frozen , prepared with calcium sulfate",c
+"Tofu, fried, prepared with calcium sulfate",a
+"Tofu, salted and fermented , prepared with calcium sulfate",a
+"Veal, Australian, rib",b
+"Lamb, composite of trimmed retail cuts, separable lean and fat",b
+"Lamb, composite of trimmed retail cuts, separable lean only",b
+"Lamb, composite of trimmed retail cuts, separable fat",c
+"Lamb, foreshank, separable lean and fat",b
+"Lamb, foreshank, separable lean only",c
+"Lamb, leg, whole ",b
+"Lamb, leg, shank half",c
+"Lamb, leg, sirloin half",b
+"Lamb, loin, separable lean and fat",d
+"Lamb, loin, separable lean only",b
+"Lamb, rib, separable lean and fat",b
+"Lamb, rib, separable lean only",b
+"Lamb, shoulder, whole ",b
+"Lamb, shoulder, arm",b
+"Lamb, shoulder, blade",b
+"Lamb, cubed for stew or kabob , separable lean only",c
+"Lamb, New Zealand, imported",c
+"Veal, composite of trimmed retail cuts, separable lean and fat",c
+"Veal, composite of trimmed retail cuts, separable lean only",b
+"Veal, composite of trimmed retail cuts, separable fat",a
+"Veal, leg , separable lean and fat",a
+"Veal, leg , separable lean only",a
+"Veal, loin, separable lean and fat",b
+IMPS# 332,b
+"Veal, loin, separable lean only",c
+IMPS # 332,c
+"Veal, rib, separable lean and fat",a
+"Veal, rib, separable lean only",b
+"Veal, shoulder, whole ",a
+"Veal, shoulder, arm",a
+"Veal, shoulder, blade chop",c
+IMPS# 1309,c
+"Veal, shoulder, blade",a
+"Veal, sirloin, separable lean and fat",b
+"Veal, sirloin, separable lean only",a
+"Veal, cubed for stew , separable lean only",b
+"Veal, ground, raw",b
+IMPS 396,a
+"Veal, ground, cooked",a
+"Game meat, antelope, raw",c
+"Game meat, antelope, cooked",b
+"Game meat, bear, raw",b
+"Game meat, bear, cooked",a
+"Bison, ground, grass-fed",b
+Buffalo,b
+"Game meat, beaver, raw",a
+"Game meat, beaver, cooked",c
+"Game meat, beefalo, composite of cuts",a
+"Veal, Australian, separable fat",c
+"Game meat, bison, separable lean only",c
+buffalo,a
+"Game meat, boar, wild",c
+"Game meat, buffalo, water",b
+"Game meat, caribou, raw",b
+"Game meat, caribou, cooked",c
+"Game meat, deer, raw",a
+"Game meat, deer, cooked",a
+"Game meat, elk, raw",b
+"Game meat, elk, cooked",b
+"Game meat, goat, raw",b
+"Game meat, goat, cooked",b
+"Game meat, horse, raw",c
+"Game meat, horse, cooked",b
+"Game meat, moose, raw",b
+"Game meat, moose, cooked",b
+"Game meat, muskrat, raw",b
+"Game meat, muskrat, cooked",c
+"Game meat, opossum, cooked",b
+"Game meat, rabbit, domesticated",b
+"Game meat, rabbit, wild",b
+"Game meat, raccoon, cooked",a
+"Game meat, squirrel, raw",b
+"Game meat, squirrel, cooked",b
+"Lamb, variety meats and by-products, brain",b
+"Veal, variety meats and by-products, brain",c
+"Lamb, variety meats and by-products, heart",b
+"Veal, variety meats and by-products, heart",c
+"Lamb, variety meats and by-products, kidneys",b
+"Veal, variety meats and by-products, kidneys",a
+"Lamb, variety meats and by-products, liver",a
+"Veal, variety meats and by-products, liver",a
+calf liver,a
+"Lamb, variety meats and by-products, lungs",b
+"Veal, variety meats and by-products, lungs",c
+"Lamb, variety meats and by-products, mechanically separated",a
+"Lamb, variety meats and by-products, pancreas",c
+"Veal, variety meats and by-products, pancreas",d
+"Lamb, variety meats and by-products, spleen",a
+"Veal, variety meats and by-products, spleen",a
+"Veal, variety meats and by-products, thymus",b
+"Lamb, variety meats and by-products, tongue",b
+"Veal, variety meats and by-products, tongue",b
+"Lamb, ground, raw",b
+"Lamb, ground, cooked",b
+"Lamb, new zealand, imported",b
+"Game meat, bison, top sirloin",b
+buffalo,b
+"Game meat, bison, ribeye",b
+buffalo,b
+"Game meat, bison, shoulder clod",a
+buffalo,b
+"Veal, breast, separable fat",b
+"Veal, breast, whole",b
+"Veal, breast, plate half",b
+"Veal, breast, point half",b
+"Veal, shank , separable lean and fat",c
+"Veal, shank , separable lean only",c
+"Lamb, Australian, imported",a
+"Game meat , bison, ground",a
+buffalo,a
+"Game meat, bison, ground",a
+buffalo,b
+"Game meat , bison, top sirloin",b
+buffalo,b
+"Game meat, bison, chuck",b
+buffalo,b
+"Game meat, bison, top round",b
+buffalo,b
+"Game meat, elk, ground",b
+"Game meat, elk, loin",b
+"Game meat, elk, round",b
+"Game meat, elk, tenderloin",a
+"Game meat, deer, ground",c
+venison,b
+"Game meat, deer, loin",b
+venison,b
+"Game meat, deer, shoulder clod",b
+venison,b
+"Game meat, deer, tenderloin",a
+venison,d
+"Game meat, deer, top round",c
+venison,a
+"Veal, Australian, shank",b
+"Lamb, Australian, ground",e
+"Veal, leg, top round",d
+IMPS#1336,d
+"Veal, loin, chop",d
+IMPS #1332,c
+"Veal, shank, separable lean only",c
+IMPS #312,a
+"Veal, foreshank, osso buco",b
+IMPS # 1312,b
+"Veal, external fat only, raw",b
+"Veal, external fat only, cooked",a
+"Veal, seam fat only, raw",a
+"Veal, seam fat only, cooked",b
+"Veal, shank, separable lean and fat",b
+IMPS# 312,a
+"Amaranth grain, uncooked",a
+"Amaranth grain, cooked",b
+Arrowroot flour,b
+"Barley, hulled",c
+"Barley, pearled, raw",c
+"Barley, pearled, cooked",a
+Buckwheat,b
+"Buckwheat groats, roasted, dry",b
+kasha,b
+"Buckwheat groats, roasted, cooked",b
+kasha,b
+"Buckwheat flour, whole-groat",b
+"Bulgur, dry",c
+"Bulgur, cooked",a
+"Corn grain, yellow",a
+dent corn,a
+field corn,b
+"Corn bran, crude",a
+"Corn flour, whole-grain, yellow",b
+"Corn flour, masa, enriched",b
+"Corn flour, yellow, degermed",b
+"Corn flour, masa, unenriched",a
+"Cornmeal, whole-grain, yellow",a
+"Cornmeal, degermed, enriched",a
+"Cornmeal, yellow, self-rising",a
+Cornstarch,a
+"Couscous, dry",c
+"Couscous, cooked",b
+"Hominy, canned, white",c
+"Millet, raw",a
+"Millet, cooked",a
+"Oat bran, raw",a
+"Oat bran, cooked",b
+"Quinoa, uncooked",a
+"Rice, brown, long-grain",b
+Oats,b
+"Rice, brown, medium-grain",b
+"Rice, brown, parboiled",a
+"Rice, white, long-grain",a
+"Rice, white, medium-grain",a
+"Rice, white, short-grain",a
+"Rice, white, glutinous",a
+"Rice, white, steamed",a
+"Rice bran, crude",a
+"Rice flour, white, unenriched",b
+Rye grain,b
+"Rye flour, dark",a
+"Rye flour, medium",a
+"Rye flour, light",a
+"Semolina, enriched",a
+Sorghum grain,a
+"Tapioca, pearl, dry",c
+Triticale,c
+"Triticale flour, whole-grain",a
+"Wheat, hard red spring",b
+"Wheat, hard red winter",b
+"Wheat, soft red winter",b
+"Wheat, hard white",c
+"Wheat, soft white",a
+"Wheat, durum",b
+"Wheat bran, crude",b
+"Wheat germ, crude",b
+"Wheat flour, whole-grain ",c
+"Wheat flour, white, all-purpose",c
+"Wheat flour, white, bread",c
+"Wheat flour, white, cake",a
+"Wheat flour, white, tortilla mix",b
+"Wheat, sprouted",b
+"Wild rice, raw",b
+"Wild rice, cooked",c
+"Rice flour, brown",c
+"Pasta, gluten-free, corn",b
+"Pasta, fresh-refrigerated, plain",a
+"Pasta, fresh-refrigerated, spinach",a
+"Pasta, homemade, made with egg",a
+"Pasta, homemade, made without egg",c
+"Macaroni, vegetable, enriched",c
+"Noodles, egg, dry",c
+"Noodles, egg, enriched",b
+"Noodles, egg, spinach",b
+"Noodles, chinese, chow mein",a
+"Noodles, japanese, soba",a
+"Noodles, japanese, somen",d
+"Noodles, flat, crunchy",a
+"Pasta, dry, enriched",a
+macaroni product,e
+spaghetti,a
+elbow macaroni,a
+lasagna,a
+penne,a
+rotini,c
+farfalle,b
+shells,b
+"Pasta, cooked, enriched",a
+macaroni product,a
+spaghetti,b
+elbow macaroni,a
+rotini,c
+lasagna,c
+farfalle,d
+shells,e
+penne,e
+"Pasta, whole-wheat, dry ",c
+spaghetti,c
+elbow macaroni,c
+penne,c
+farfalle,c
+lasagna,c
+shells,c
+macaroni product,d
+"Pasta, whole-wheat, cooked ",c
+macaroni product,d
+spaghetti,d
+elbow macaroni,c
+penne,d
+farfalle,c
+lasagna,c
+rotini,c
+shells,a
+"Spaghetti, spinach, dry",b
+"Spaghetti, spinach, cooked",e
+"Wheat flours, bread, unenriched",e
+Barley flour or meal,e
+Barley malt flour,d
+"Oat flour, partially debranned",c
+"Rice noodles, dry",d
+"Rice noodles, cooked",d
+"Pasta, whole grain, 51% whole wheat",b
+macaroni product,c
+spaghetti,c
+elbow macaroni,b
+farfalle,a
+rotini,b
+lasagna,b
+shells,c
+penne,a
+"Quinoa, cooked",c
+"Wheat, KAMUT khorasan, uncooked",c
+khorassan wheat,c
+"Wheat, KAMUT khorasan, cooked",c
+khorassan wheat,b
+"Spelt, uncooked",b
+"Spelt, cooked",b
+"Teff, uncooked",b
+"Teff, cooked",b
+"Noodles, egg, cooked",c
+"Corn grain, white",b
+dent corn,c
+field corn,c
+"Corn flour, whole-grain, blue ",c
+"Corn flour, whole-grain, white",c
+"Corn flour, yellow, masa",a
+"Cornmeal, whole-grain, white",b
+"Cornmeal, white, self-rising",b
+"Hominy, canned, yellow",b
+"Noodles, egg, unenriched",b
+"Pasta, dry, unenriched",a
+macaroni product,c
+spaghetti,c
+elbow macaroni,a
+lasagna,c
+rotini,b
+shells,a
+farfalle,a
+penne,a
+"Pasta, cooked, unenriched",a
+macaroni product,a
+spaghetti,a
+elbow macaroni,a
+penne,a
+shells,a
+farfalle,c
+rotini,c
+lasagna,a
+"Cornmeal, degermed, unenriched",a
+"Semolina, unenriched",a
+"Spaghetti, protein-fortified, cooked",a
+"Spaghetti, protein-fortified, dry",a
+"Wheat flour, white , 9% protein",b
+"Wheat flour, white , 10% protein",b
+"Wheat flour, white , 11.5% protein",a
+"Wheat flour, white , 13% protein",b
+"Wheat flour, white , 15% protein",c
+Millet flour,c
+"Sorghum flour, whole-grain",c
+"Wheat flour, whole-grain, soft wheat",c
+"Sorghum flour, refined, unenriched",c
+"Pasta, gluten-free, brown rice flour",b
+"Pasta, gluten-free, corn flour and quinoa flour",c
+"Pasta, gluten-free, rice flour and rice bran extract",c
+"Pasta, gluten-free, corn and rice flour",c
+,b
+,c
+,b
+,b
+,e
+,e
+,e
+,a
+,e
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,d
+,c
+,d
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,a
+,a
+,b
+,a
+,b
+,b
+,b
+,c
+,a
+,a
+,b
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,c
+,c
+,a
+,c
+,c
+,a
+,b
+,c
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,a
+,b
+,b
+,c
+,c
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,b
+,b
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,b
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,b
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,c
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,c
+,a
+,a
+,c
+,a
+,b
+,b
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,c
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,b
+,c
+,c
+,b
+,b
+,a
+,c
+,a
+,c
+,a
+,b
+,c
+,c
+,c
+,c
+,a
+,a
+,a
+,b
+,c
+,c
+,a
+,c
+,c
+,c
+,a
+,a
+,c
+,b
+,a
+,b
+,c
+,c
+,a
+,b
+,b
+,a
+,c
+,b
+,b
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,c
+,b
+,a
+,b
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,b
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,c
+,b
+,a
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,c
+,c
+,a
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,c
+,a
+,a
+,b
+,c
+,b
+,c
+,c
+,c
+,a
+,a
+,c
+,c
+,a
+,b
+,c
+,a
+,a
+,a
+,a
+,c
+,b
+,b
+,b
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,b
+,b
+,a
+,b
+,b
+,c
+,b
+,a
+,a
+,b
+,a
+,a
+,c
+,b
+,b
+,b
+,b
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,b
+,b
+,b
+,a
+,b
+,b
+,b
+,a
+,a
+,b
+,a
+,a
+,a
+,b
+,b
+,a
+,b
+,b
+,a
+,b
+,a
+,a
+,a
+,b
+,a
+,a
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,c
+,a
+,b
+,a
+,b
+,b
+,a
+,b
+,a
+,b
+,a
+,b
+,a
+,b
+,b
+,b
+,a
+,b
+,c
+,b
+,a
+,c
+,c
+,b
+,a
+,b
+,a
+,c
+,b
+,b
+,a
+,a
+,b
+,a
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,a
+,b
+,a
+,b
+,a
+,a
+,b
+,b
+,a
+,b
+,b
+,b
+,b
+,b
+,a
+,a
+,b
+,b
+,b
+,a
+,b
+,c
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,b
+,b
+,a
+,a
+,b
+,b
+,a
+,a
+,b
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,c
+,a
+,b
+,b
+,b
+,b
+,a
+,a
+,b
+,a
+,b
+,a
+,b
+,b
+,c
+,b
+,a
+,c
+,d
+,c
+,a
+,c
+,c
+,a
+,c
+,d
+,a
+,a
+,c
+,c
+,a
+,b
+,b
+,a
+,a
+,c
+,a
+,a
+,c
+,a
+,a
+,b
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,c
+,c
+,c
+,a
+,c
+,c
+,c
+,b
+,a
+,c
+,b
+,b
+,c
+,b
+,c
+,a
+,c
+,c
+,c
+,b
+,b
+,b
+,b
+,c
+,c
+,c
+,a
+,c
+,c
+,c
+,c
+,b
+,b
+,b
+,b
+,a
+,b
+,a
+,b
+,b
+,c
+,c
+,e
+,c
+,d
+,c
+,e
+,c
+,d
+,b
+,b
+,b
+,c
+,b
+,a
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,b
+,c
+,d
+,a
+,c
+,a
+,c
+,a
+,c
+,c
+,c
+,d
+,b
+,d
+,d
+,e
+,a
+,b
+,c
+,c
+,c
+,b
+,b
+,b
+,a
+,b
+,a
+,c
+,c
+,d
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,d
+,d
+,d
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,c
+,c
+,d
+,d
+,a
+,b
+,c
+,b
+,c
+,b
+,a
+,b
+,b
+,c
+,c
+,b
+,b
+,c
+,c
+,b
+,c
+,a
+,a
+,b
+,c
+,a
+,a
+,a
+,b
+,a
+,b
+,a
+,b
+,a
+,a
+,c
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,c
+,c
+,a
+,a
+,e
+,c
+,c
+,c
+,c
+,a
+,c
+,b
+,e
+,e
+,d
+,d
+,d
+,c
+,b
+,b
+,c
+,b
+,c
+,b
+,d
+,c
+,b
+,c
+,c
+,c
+,c
+,b
+,b
+,b
+,c
+,b
+,b
+,a
+,c
+,c
+,c
+,c
+,a
+,a
+,c
+,c
+,c
+,b
+,b
+,c
+,c
+,b
+,c
+,b
+,c
+,c
+,c
+,a
+,b
+,b
+,b
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,b
+,b
+,a
+,b
+,b
+,b
+,b
+,b
+,a
+,b
+,b
+,b
+,a
+,a
+,a
+,c
+,c
+,c
+,a
+,b
+,b
+,b
+,a
+,b
+,b
+,c
+,c
+,b
+,a
+,b
+,b
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,c
+,c
+,c
+,c
+,a
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,b
+,b
+,b
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,b
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,a
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,a
+,b
+,b
+,a
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,b
+,c
+,c
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,b
+,c
+,b
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,c
+,b
+,b
+,b
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,c
+,b
+,c
+,b
+,c
+,b
+,b
+,b
+,d
+,c
+,b
+,b
+,c
+,c
+,b
+,b
+,c
+,d
+,d
+,a
+,b
+,b
+,a
+,b
+,a
+,a
+,a
+,c
+,c
+,b
+,b
+,c
+,b
+,c
+,b
+,c
+,a
+,c
+,b
+,b
+,d
+,b
+,b
+,a
+,c
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,e
+,b
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,a
+,b
+,b
+,c
+,c
+,c
+,d
+,b
+,e
+,d
+,e
+,b
+,b
+,a
+,d
+,b
+,b
+,a
+,b
+,a
+,b
+,b
+,b
+,d
+,a
+,b
+,c
+,b
+,b
+,b
+,b
+,c
+,c
+,b
+,b
+,b
+,b
+,b
+,b
+,c
+,d
+,b
+,d
+,b
+,d
+,b
+,b
+,b
+,e
+,b
+,d
+,c
+,e
+,b
+,d
+,b
+,b
+,b
+,b
+,b
+,c
+,d
+,b
+,b
+,a
+,b
+,c
+,d
+,a
+,b
+,a
+,d
+,b
+,c
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,d
+,b
+,a
+,b
+,b
+,d
+,d
+,b
+,b
+,c
+,a
+,c
+,b
+,c
+,b
+,b
+,b
+,d
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,d
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,c
+,c
+,c
+,b
+,b
+,d
+,b
+,d
+,b
+,b
+,b
+,c
+,c
+,c
+,b
+,b
+,b
+,d
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,c
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,c
+,b
+,b
+,b
+,b
+,b
+,c
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,d
+,a
+,c
+,a
+,a
+,a
+,c
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,b
+,c
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,b
+,c
+,c
+,b
+,a
+,a
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,c
+,a
+,c
+,b
+,a
+,b
+,a
+,a
+,a
+,b
+,a
+,a
+,b
+,b
+,c
+,a
+,a
+,a
+,a
+,b
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,b
+,b
+,a
+,b
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,c
+,c
+,c
+,a
+,b
+,b
+,b
+,a
+,b
+,a
+,a
+,a
+,b
+,b
+,c
+,c
+,c
+,c
+,a
+,a
+,c
+,b
+,c
+,c
+,a
+,b
+,a
+,a
+,b
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,c
+,c
+,a
+,b
+,a
+,b
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,b
+,c
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,c
+,a
+,c
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,c
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,d
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,c
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,c
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,d
+,c
+,d
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,d
+,b
+,a
+,a
+,a
+,b
+,b
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,c
+,b
+,b
+,b
+,b
+,b
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,c
+,c
+,a
+,a
+,c
+,c
+,a
+,a
+,c
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,b
+,a
+,b
+,b
+,c
+,a
+,a
+,a
+,a
+,c
+,b
+,c
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,c
+,a
+,a
+,b
+,b
+,a
+,b
+,b
+,b
+,c
+,b
+,b
+,c
+,b
+,a
+,b
+,a
+,b
+,a
+,b
+,c
+,a
+,b
+,b
+,c
+,a
+,b
+,a
+,a
+,b
+,a
+,c
+,b
+,a
+,a
+,c
+,a
+,a
+,b
+,c
+,b
+,a
+,b
+,a
+,c
+,c
+,a
+,b
+,d
+,d
+,b
+,c
+,a
+,a
+,c
+,c
+,a
+,a
+,b
+,b
+,a
+,a
+,c
+,c
+,a
+,b
+,c
+,c
+,c
+,a
+,b
+,b
+,c
+,c
+,c
+,b
+,b
+,b
+,c
+,c
+,c
+,c
+,a
+,c
+,b
+,b
+,c
+,c
+,c
+,c
+,a
+,c
+,b
+,b
+,c
+,c
+,c
+,c
+,a
+,c
+,b
+,b
+,a
+,b
+,a
+,c
+,c
+,a
+,b
+,d
+,d
+,b
+,c
+,a
+,a
+,b
+,c
+,a
+,b
+,c
+,c
+,a
+,b
+,c
+,c
+,a
+,b
+,c
+,c
+,a
+,c
+,a
+,b
+,a
+,a
+,d
+,d
+,a
+,a
+,c
+,b
+,a
+,a
+,a
+,c
+,a
+,a
+,b
+,c
+,c
+,a
+,a
+,b
+,b
+,c
+,c
+,a
+,b
+,b
+,a
+,b
+,b
+,a
+,a
+,b
+,a
+,b
+,b
+,a
+,a
+,b
+,a
+,b
+,b
+,a
+,a
+,b
+,a
+,c
+,b
+,a
+,a
+,a
+,a
+,a
+,c
+,b
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,d
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,b
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,b
+,c
+,b
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,c
+,a
+,b
+,c
+,c
+,c
+,c
+,b
+,c
+,c
+,c
+,b
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,a
+,a
+,d
+,b
+,c
+,c
+,c
+,b
+,a
+,b
+,a
+,a
+,c
+,c
+,a
+,b
+,d
+,d
+,c
+,c
+,a
+,a
+,c
+,c
+,a
+,b
+,c
+,c
+,a
+,a
+,c
+,c
+,a
+,b
+,c
+,c
+,a
+,b
+,b
+,b
+,a
+,b
+,c
+,b
+,a
+,b
+,c
+,c
+,a
+,b
+,c
+,c
+,a
+,c
+,c
+,c
+,a
+,b
+,c
+,c
+,b
+,c
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,d
+,d
+,d
+,a
+,a
+,c
+,a
+,a
+,d
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,b
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,b
+,a
+,b
+,a
+,b
+,b
+,a
+,c
+,c
+,c
+,b
+,b
+,c
+,c
+,c
+,a
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,b
+,b
+,b
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,d
+,d
+,c
+,d
+,a
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,d
+,d
+,d
+,c
+,c
+,d
+,d
+,c
+,c
+,c
+,b
+,d
+,c
+,c
+,a
+,b
+,b
+,c
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,b
+,b
+,b
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,c
+,b
+,b
+,a
+,a
+,a
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,e
+,d
+,d
+,c
+,d
+,d
+,d
+,c
+,d
+,c
+,c
+,c
+,c
+,e
+,c
+,c
+,e
+,e
+,c
+,d
+,c
+,d
+,c
+,c
+,d
+,d
+,c
+,d
+,b
+,e
+,d
+,d
+,d
+,e
+,e
+,c
+,d
+,c
+,d
+,d
+,c
+,d
+,e
+,b
+,d
+,d
+,e
+,e
+,d
+,e
+,d
+,d
+,d
+,e
+,e
+,d
+,d
+,d
+,c
+,e
+,c
+,d
+,d
+,d
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,d
+,e
+,d
+,d
+,b
+,d
+,c
+,d
+,c
+,c
+,d
+,e
+,d
+,d
+,e
+,d
+,c
+,d
+,c
+,d
+,d
+,a
+,a
+,a
+,a
+,b
+,c
+,c
+,d
+,c
+,d
+,b
+,c
+,c
+,d
+,d
+,d
+,c
+,d
+,c
+,c
+,a
+,c
+,d
+,c
+,d
+,c
+,c
+,d
+,c
+,d
+,d
+,e
+,e
+,c
+,d
+,d
+,d
+,d
+,d
+,a
+,b
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,c
+,c
+,c
+,b
+,c
+,c
+,d
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,e
+,d
+,d
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,d
+,d
+,d
+,d
+,d
+,d
+,c
+,c
+,c
+,b
+,a
+,b
+,b
+,a
+,b
+,b
+,b
+,a
+,b
+,c
+,c
+,d
+,d
+,d
+,c
+,c
+,d
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,c
+,c
+,a
+,a
+,c
+,c
+,d
+,a
+,a
+,b
+,c
+,c
+,c
+,b
+,e
+,a
+,d
+,d
+,c
+,b
+,b
+,b
+,c
+,b
+,b
+,a
+,c
+,c
+,d
+,c
+,d
+,d
+,b
+,a
+,b
+,c
+,c
+,c
+,b
+,c
+,c
+,b
+,c
+,d
+,c
+,c
+,b
+,b
+,b
+,c
+,c
+,c
+,d
+,c
+,a
+,a
+,b
+,c
+,c
+,c
+,c
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,c
+,c
+,c
+,d
+,b
+,b
+,c
+,c
+,e
+,e
+,d
+,d
+,e
+,e
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,c
+,c
+,d
+,d
+,d
+,d
+,d
+,d
+,c
+,d
+,d
+,d
+,c
+,e
+,c
+,d
+,d
+,d
+,d
+,d
+,b
+,c
+,c
+,e
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,d
+,c
+,d
+,d
+,c
+,d
+,d
+,d
+,d
+,c
+,c
+,c
+,d
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,d
+,c
+,e
+,c
+,c
+,a
+,a
+,d
+,c
+,a
+,d
+,c
+,b
+,b
+,c
+,c
+,b
+,a
+,a
+,c
+,a
+,e
+,d
+,d
+,d
+,d
+,c
+,c
+,d
+,e
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,e
+,c
+,c
+,e
+,d
+,d
+,c
+,c
+,d
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,d
+,c
+,c
+,c
+,a
+,d
+,a
+,c
+,d
+,d
+,e
+,c
+,c
+,d
+,d
+,c
+,e
+,e
+,a
+,a
+,a
+,a
+,b
+,c
+,c
+,c
+,d
+,c
+,c
+,d
+,e
+,c
+,e
+,e
+,e
+,d
+,d
+,e
+,d
+,c
+,c
+,e
+,d
+,e
+,d
+,d
+,e
+,d
+,e
+,c
+,d
+,d
+,d
+,d
+,e
+,c
+,c
+,c
+,c
+,d
+,d
+,e
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,e
+,e
+,e
+,d
+,c
+,c
+,d
+,d
+,b
+,e
+,e
+,e
+,c
+,b
+,c
+,d
+,d
+,d
+,e
+,c
+,c
+,d
+,d
+,e
+,e
+,e
+,c
+,e
+,e
+,d
+,e
+,e
+,d
+,e
+,e
+,e
+,d
+,d
+,e
+,e
+,e
+,e
+,e
+,c
+,e
+,e
+,e
+,e
+,e
+,d
+,e
+,d
+,c
+,b
+,a
+,b
+,c
+,b
+,a
+,d
+,b
+,c
+,b
+,b
+,d
+,d
+,c
+,e
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,b
+,e
+,b
+,c
+,e
+,c
+,b
+,b
+,e
+,c
+,b
+,b
+,b
+,b
+,b
+,d
+,b
+,c
+,b
+,b
+,b
+,c
+,b
+,d
+,e
+,e
+,e
+,e
+,b
+,b
+,c
+,c
+,c
+,d
+,e
+,d
+,b
+,d
+,e
+,c
+,c
+,c
+,e
+,e
+,e
+,d
+,e
+,d
+,e
+,e
+,c
+,c
+,c
+,d
+,d
+,c
+,c
+,b
+,b
+,c
+,d
+,c
+,b
+,c
+,e
+,c
+,c
+,d
+,d
+,d
+,d
+,d
+,e
+,d
+,d
+,e
+,e
+,e
+,e
+,b
+,c
+,e
+,b
+,e
+,e
+,c
+,e
+,c
+,e
+,c
+,e
+,c
+,d
+,d
+,d
+,d
+,c
+,c
+,c
+,d
+,d
+,d
+,d
+,d
+,c
+,d
+,d
+,d
+,d
+,c
+,d
+,d
+,e
+,d
+,d
+,c
+,e
+,c
+,d
+,c
+,c
+,d
+,d
+,e
+,c
+,c
+,d
+,e
+,d
+,e
+,d
+,c
+,b
+,d
+,c
+,c
+,d
+,c
+,c
+,e
+,e
+,d
+,d
+,c
+,d
+,a
+,a
+,d
+,a
+,d
+,c
+,c
+,c
+,c
+,b
+,c
+,b
+,c
+,c
+,d
+,b
+,d
+,a
+,d
+,c
+,b
+,a
+,c
+,c
+,c
+,c
+,b
+,d
+,d
+,d
+,c
+,d
+,d
+,c
+,a
+,d
+,d
+,a
+,c
+,c
+,b
+,c
+,c
+,b
+,a
+,a
+,a
+,a
+,b
+,c
+,c
+,c
+,b
+,a
+,c
+,c
+,c
+,c
+,c
+,d
+,b
+,d
+,a
+,b
+,b
+,a
+,c
+,c
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,a
+,c
+,a
+,b
+,e
+,d
+,c
+,b
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,c
+,e
+,d
+,d
+,e
+,e
+,a
+,e
+,b
+,d
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,c
+,c
+,c
+,c
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,b
+,a
+,b
+,a
+,b
+,a
+,b
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,d
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,c
+,a
+,c
+,b
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,c
+,c
+,b
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,b
+,b
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,d
+,c
+,d
+,c
+,d
+,e
+,d
+,d
+,d
+,d
+,d
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,d
+,c
+,c
+,b
+,c
+,c
+,b
+,d
+,c
+,c
+,c
+,b
+,a
+,a
+,c
+,a
+,b
+,c
+,d
+,c
+,b
+,c
+,b
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,b
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,d
+,c
+,d
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,b
+,c
+,b
+,c
+,d
+,c
+,c
+,b
+,b
+,c
+,b
+,b
+,c
+,c
+,d
+,c
+,c
+,c
+,b
+,b
+,b
+,c
+,c
+,a
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,b
+,b
+,c
+,b
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,c
+,c
+,b
+,b
+,c
+,b
+,c
+,b
+,b
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,d
+,d
+,c
+,d
+,e
+,c
+,d
+,d
+,c
+,c
+,c
+,c
+,d
+,d
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,d
+,c
+,d
+,d
+,d
+,d
+,c
+,c
+,c
+,c
+,d
+,c
+,d
+,d
+,d
+,c
+,c
+,c
+,a
+,a
+,a
+,a
+,b
+,b
+,c
+,d
+,d
+,c
+,c
+,c
+,d
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,d
+,d
+,d
+,c
+,c
+,d
+,d
+,b
+,c
+,c
+,c
+,d
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,d
+,b
+,c
+,d
+,c
+,c
+,c
+,c
+,d
+,d
+,c
+,c
+,b
+,b
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,d
+,c
+,c
+,d
+,b
+,d
+,d
+,d
+,c
+,c
+,d
+,c
+,c
+,c
+,b
+,b
+,b
+,b
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,b
+,a
+,a
+,b
+,a
+,a
+,b
+,b
+,c
+,b
+,c
+,b
+,b
+,c
+,c
+,b
+,c
+,c
+,c
+,b
+,c
+,b
+,b
+,a
+,b
+,b
+,a
+,c
+,c
+,c
+,c
+,b
+,b
+,b
+,b
+,c
+,b
+,b
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,b
+,c
+,b
+,b
+,b
+,c
+,b
+,c
+,c
+,c
+,b
+,b
+,b
+,b
+,c
+,c
+,c
+,c
+,c
+,b
+,b
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,c
+,c
+,a
+,b
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,b
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,b
+,a
+,b
+,a
+,a
+,a
+,b
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,c
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,a
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,b
+,b
+,a
+,a
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,b
+,a
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,b
+,b
+,b
+,b
+,b
+,b
+,a
+,a
+,b
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,b
+,a
+,c
+,b
+,c
+,b
+,c
+,b
+,b
+,a
+,b
+,b
+,b
+,a
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,b
+,b
+,b
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,c
+,b
+,b
+,b
+,b
+,b
+,b
+,a
+,a
+,b
+,a
+,c
+,c
+,c
+,b
+,b
+,b
+,b
+,c
+,b
+,b
+,b
+,b
+,b
+,b
+,a
+,c
+,a
+,b
+,d
+,d
+,d
+,d
+,d
+,d
+,a
+,a
+,c
+,b
+,a
+,a
+,a
+,c
+,b
+,c
+,c
+,c
+,a
+,c
+,a
+,a
+,c
+,c
+,c
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,c
+,c
+,c
+,b
+,a
+,b
+,b
+,a
+,a
+,c
+,b
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,d
+,d
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,b
+,a
+,d
+,d
+,c
+,c
+,b
+,b
+,a
+,c
+,c
+,a
+,a
+,b
+,a
+,c
+,c
+,b
+,b
+,c
+,b
+,c
+,c
+,a
+,a
+,b
+,b
+,b
+,b
+,a
+,a
+,b
+,a
+,a
+,a
+,c
+,c
+,b
+,a
+,a
+,b
+,b
+,b
+,b
+,a
+,a
+,a
+,a
+,a
+,c
+,c
+,c
+,b
+,c
+,c
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,b
+,b
+,a
+,a
+,b
+,c
+,c
+,a
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,b
+,b
+,b
+,b
+,b
+,b
+,c
+,b
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,b
+,a
+,b
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,c
+,c
+,c
+,b
+,b
+,d
+,d
+,d
+,c
+,e
+,c
+,d
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,d
+,d
+,c
+,c
+,d
+,c
+,b
+,c
+,d
+,d
+,c
+,d
+,c
+,b
+,c
+,d
+,c
+,c
+,c
+,d
+,c
+,c
+,d
+,c
+,c
+,d
+,a
+,e
+,c
+,d
+,c
+,c
+,c
+,c
+,b
+,b
+,b
+,c
+,c
+,c
+,b
+,a
+,c
+,a
+,b
+,b
+,c
+,c
+,c
+,c
+,b
+,b
+,c
+,c
+,b
+,b
+,b
+,a
+,d
+,c
+,d
+,d
+,c
+,d
+,c
+,c
+,c
+,d
+,d
+,d
+,d
+,d
+,b
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,d
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,c
+,b
+,b
+,c
+,c
+,c
+,c
+,c
+,e
+,e
+,e
+,d
+,d
+,e
+,d
+,e
+,e
+,d
+,d
+,d
+,c
+,c
+,c
+,d
+,e
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,e
+,e
+,e
+,e
+,e
+,d
+,e
+,e
+,e
+,e
+,d
+,d
+,c
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,e
+,d
+,e
+,e
+,e
+,e
+,e
+,e
+,e
+,d
+,e
+,d
+,d
+,e
+,e
+,e
+,e
+,d
+,e
+,e
+,e
+,e
+,e
+,e
+,e
+,e
+,e
+,c
+,d
+,e
+,c
+,c
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,e
+,e
+,e
+,d
+,e
+,e
+,e
+,d
+,d
+,e
+,e
+,e
+,e
+,d
+,d
+,d
+,e
+,d
+,e
+,d
+,d
+,d
+,d
+,c
+,d
+,d
+,d
+,d
+,d
+,c
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,e
+,d
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,d
+,e
+,e
+,e
+,e
+,d
+,d
+,e
+,e
+,d
+,d
+,e
+,d
+,e
+,d
+,d
+,e
+,c
+,d
+,d
+,e
+,e
+,d
+,e
+,e
+,d
+,d
+,b
+,d
+,d
+,d
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,e
+,d
+,d
+,c
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,d
+,c
+,d
+,d
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,d
+,d
+,e
+,c
+,c
+,e
+,d
+,d
+,d
+,d
+,d
+,e
+,c
+,d
+,d
+,d
+,e
+,d
+,d
+,e
+,d
+,d
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,b
+,c
+,b
+,b
+,e
+,d
+,e
+,d
+,e
+,e
+,b
+,d
+,c
+,d
+,d
+,d
+,c
+,c
+,c
+,b
+,c
+,a
+,b
+,c
+,e
+,c
+,b
+,b
+,c
+,b
+,b
+,b
+,b
+,b
+,b
+,c
+,b
+,b
+,b
+,b
+,c
+,b
+,a
+,a
+,b
+,b
+,c
+,b
+,c
+,b
+,c
+,a
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,c
+,d
+,c
+,c
+,b
+,d
+,b
+,a
+,b
+,e
+,e
+,c
+,c
+,e
+,e
+,e
+,e
+,d
+,e
+,e
+,e
+,b
+,b
+,b
+,e
+,c
+,c
+,c
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,e
+,a
+,a
+,b
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,b
+,b
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,e
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,d
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,c
+,c
+,c
+,c
+,a
+,a
+,a
+,c
+,a
+,a
+,a
+,b
+,b
+,b
+,a
+,a
+,a
+,b
+,a
+,b
+,c
+,c
+,b
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,e
+,b
+,a
+,c
+,c
+,a
+,c
+,c
+,c
+,b
+,c
+,a
+,a
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,a
+,b
+,c
+,c
+,c
+,c
+,a
+,b
+,a
+,b
+,c
+,a
+,a
+,a
+,a
+,b
+,a
+,a
+,a
+,a
+,a
+,a
+,a
+,c
+,a
+,c
+,a
+,a
+,a
+,a
+,b
+,c
+,a
+,a
+,a
+,a
+,a
+,a
+,b
+,c
+,b
+,c
+,c
+,c
+,b
+,d
+,c
+,d
+,c
+,d
+,c
+,c
+,b
+,d
+,c
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,d
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,c
+,a
+,b
+,b
+,b
+,c
+,c
+,d
+,d
+,b
+,b
+,b
+,c
+,c
+,c
+,c
+,c
+,c
+,b
+,c
+,c
+,b
+,b
+,c
+,a
+,c
+,b
+,c
+,c
+,a
+,b
+,b
+,d
+,c
+,a
+,c
+,c
+,b
+,c
+,d
+,c
+,b
+,b
+,c
+,b
+,d
+,c
+,b
+,d
+,b
+,b
+,c
+,b
+,b
+,b
+,c
+,a
+,b
+,b
+,b
+,c
+,b
+,b
+,b
+,d
+,c
+,a
+,c
+,d
+,d
+,b
+,b
+,c
+,d
+,c
+,d
+,e
+,e
+,d
+,d
+,d
+,b
+,e
+,c
+,e
+,c
+,d
+,d
+,d
+,d
+,d
+,d
+,c
+,d
+,a
+,d
+,a
+,c
+,c
+,c
+,b
+,e
+,c
+,c
+,e
+,c
+,a
+,c
+,d
+,e
+,d
+,a
+,c
+,a
+,c
+,d
+,e
+,d
+,b
+,b
+,d
+,b
+,b
+,b
+,b
+,d
+,a
+,a
+,c
+,a
+,c
+,c
+,a
+,a
+,d
+,a
+,c
+,b
+,d
+,c
+,d
+,e
+,a
+,b
+,b
+,b
+,a
+,e
+,e
+,e
+,b
+,c
+,d
+,a
+,c
+,c
+,c
+,c
+,c
+,b
+,b
+,d
+,b
+,d
+,c
+,c
+,c
+,b
+,b
+,b
+,a
+,c
+,b
+,b
+,b
+,a
+,b
+,c
+,b
+,c
+,c
+,c
+,b
+,d
+,d
+,c
+,d
+,d
+,d
+,a
+,a
+,a
+,b
+,d
+,c
+,c
+,c
+,b
+,d
+,d
+,d
+,d
+,b
+,b
+,a
+,b
+,e
+,a
+,a
+,a
+,c
+,c
+,c
+,d
+,d
+,c
+,b
+,c
+,b
+,a
+,c
+,a
+,b
+,c
+,c
+,b
+,b
+,e
+,c
+,b
+,d
+,a
+,c
+,c
+,b
+,a
+,a
+,c
+,e
+,b
+,c
+,b
+,b
+,a
+,a
+,a
+,a
+,b
+,a
+,c
+,a
+,b
+,a
+,b
+,c
+,e
+,d
+,b
+,b
+,b
+,a
+,b
+,b
+,c
+,b
+,d
+,b
+,a
+,b
+,b
+,c
+,c
+,b
+,b
+,b
+,d
+,c
+,e
+,e
+,d
+,e
+,c
+,c
+,b
+,d
+,c
+,c
+,c
+,d
+,d
+,a
+,a
+,d
+,c
+,d
+,a
+,a

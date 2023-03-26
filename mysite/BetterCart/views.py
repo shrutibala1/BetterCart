@@ -1,10 +1,10 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
-from .models import GroceryItem
+from .models import GroceryItem, nutriScore
 import requests
 from bs4 import BeautifulSoup
 from .scraper import scrape_foodsubs
-
+import csv
 
 
 def index(request):
@@ -42,12 +42,73 @@ def ingredient_search(request):
     return render(request, 'BetterCart/ingredient_search.html')
 
 
-
 def ingredient_search(request):
     if request.method == 'POST':
-        search_term = request.POST['search_term']
-        urls = scrape_foodsubs(search_term)
-        context = {'urls': urls, 'search_term': search_term}
-        return render(request, 'BetterCart/ingredient_search_results.html', context)
+        search_string = request.POST.get('search_term', '')
+        results = []
+        with open('BetterCart/final_substitution.csv') as csvfile:
+            reader = csv.reader(csvfile)
+            next(reader)  # skip header row
+            context=[]
+            for row in reader:
+                if search_string.lower() in row[1].lower() and row[1] not in results:
+                    results.append(row[1])
+                    try:
+                        nutrition = nutriScore.objects.get(name=row[1])
+                    except nutriScore.DoesNotExist:
+                        nutrition = None
+                    if nutrition:
+                        context.append(nutrition.name + str(": ")+nutrition.score)
+        return render(request, 'BetterCart/ingredient_search_results.html', {'results': results,'context':context})
     else:
-        return render(request, 'BetterCart/ingredient_search_form.html')
+        return render(request, 'BetterCart/add_grocery_item.html')
+
+
+def recommendations(request, search_term):
+    results = []
+    with open('BetterCart/final_substitution.csv') as csvfile:
+        reader = csv.reader(csvfile)
+        next(reader)  # skip header row
+        results.append(search_term.lower())
+        try:
+            nutrition = nutriScore.objects.get(name=search_term)
+        except nutriScore.DoesNotExist:
+            nutrition = None
+        if nutrition:
+            context2 = {
+                'nutrition': nutrition.name,
+                'score': nutrition.score
+            }
+        context = []
+        overall =[]
+        for row in reader:
+            info = []
+            if search_term.lower() in row[1].lower():
+                info.append(row[3])
+                results.append(row[3])
+                try:
+                    nutrition = nutriScore.objects.get(name=row[3])
+                except nutriScore.DoesNotExist:
+                    nutrition = None
+                if nutrition:
+                    info.append(nutrition.score)
+                    context.append(nutrition.name + str(": ")+nutrition.score)
+            overall.append(info)
+    overall = [x for x in overall if x != []]
+    print("results", overall[0][1])
+    print("context2", context2["score"])
+    return render(request, 'BetterCart/recommendations.html', {"overall": overall, 'results': results, 'context2': context2})
+    # return render(request, 'BetterCart/recommendations.html', {'results': results,'context2':context2,'context':context})
+
+
+def add_to_cart(request):
+    if request.method == 'POST':
+        item_name = request.POST.get('item_name', '')
+        GroceryItem.objects.create(item_name=item_name)
+        return redirect('/../../')
+    else:
+        return redirect('/../../')
+
+def clear_list(request):
+    GroceryItem.objects.all().delete()
+    return redirect('/../../')

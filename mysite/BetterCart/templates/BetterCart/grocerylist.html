@@ -1,23 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Grocery List</title>
-</head>
-<body>
-    <h1>Grocery List</h1>
-    {% for item in items%}
-        <li> {{item.item_name}}</li>
-        <li> {{item.calories}}</li>
-        <li> {{item.saturated_fat}}</li>
-        <li> {{item.trans_fat}}</li>
-        <li> {{item.carbs}}</li>
-        <li> {{item.protein}}</li>
-    {% endfor %}
+{% extends 'BetterCart/base.html' %}
 
-    <button type="button" onclick="window.location.href='/BetterCart/add-item'">Add</button>
-    <button type="button" onclick="window.location.href='/finalize-list'">Finalize</button>
+{% block content %}
+    <div class="container">
+        <h1 align = "center">Grocery List</h1>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Item Name</th>
+                </tr>
+            </thead>
+            <tbody>
 
+                {% for item in items %}
+                    <tr>
+                        <td>{{ item.item_name }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <button type="button" class="btn btn-primary" onclick="window.location.href='/BetterCart/add-item'">Add</button>
+        <button type="button" class="btn btn-danger" onclick="window.location.href='/clear-list'">Clear</button>
 
-</body>
-</html>
+        <style>
+            .table thead {
+                background-color: lightblue;
+            }
+            .table td,
+            .table th {
+                align: middle;
+            }
+        </style>
+    </div>
+{% endblock %}
