@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
-from .models import GroceryItem, nutritionFacts
+from .models import GroceryItem, nutriScore
 import requests
 from bs4 import BeautifulSoup
 from .scraper import scrape_foodsubs
@@ -63,10 +63,30 @@ def recommendations(request, search_term):
         reader = csv.reader(csvfile)
         next(reader)  # skip header row
         results.append(search_term.lower())
+        try:
+            nutrition = nutriScore.objects.get(name=search_term)
+        except nutriScore.DoesNotExist:
+            nutrition = None
+        if nutrition:
+            context2 = {
+                'nutrition': nutrition.name,
+                'score': nutrition.score
+            }
+
         for row in reader:
             if search_term.lower() in row[1].lower():
                 results.append(row[3])
-    return render(request, 'BetterCart/recommendations.html', {'results': results})
+                try:
+                    nutrition = nutriScore.objects.get(name=row[3])
+                except nutriScore.DoesNotExist:
+                    nutrition = None
+                if nutrition:
+                    context = {
+                        'nutrition': nutrition.name,
+                        'score': nutrition.score
+                    }
+
+    return render(request, 'BetterCart/recommendations.html', {'results': results,'context2':context2,'context':context})
 
 
 def add_to_cart(request):
