@@ -1,12 +1,26 @@
+{% extends 'BetterCart/base.html' %}
 {% block content %}
+<div class="container">
     <h1>Search Results</h1>
-    {% if results %}
-        <ul>
-        {% for result in results %}
-            <li><a href="{% url 'recommendations' result %}">{{ result }}</a></li>
-        {% endfor %}
-        </ul>
-    {% else %}
-        <p>No results found.</p>
-    {% endif %}
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Item Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% if results %}
+                {% for result in results %}
+                    <tr>
+                        <td><a href="{% url 'recommendations' result %}">{{ result }}</a></td>
+                    </tr>
+                {% endfor %}
+            {% else %}
+                <tr>
+                    <td>No results found.</td>
+                </tr>
+            {% endif %}
+        </tbody>
+    </table>
+</div>
 {% endblock %}
