@@ -4,6 +4,8 @@ from .models import GroceryItem
 import requests
 from bs4 import BeautifulSoup
 from .scraper import scrape_foodsubs
+import csv
+
 
 
 
@@ -42,12 +44,16 @@ def ingredient_search(request):
     return render(request, 'BetterCart/ingredient_search.html')
 
 
-
 def ingredient_search(request):
     if request.method == 'POST':
-        search_term = request.POST['search_term']
-        urls = scrape_foodsubs(search_term)
-        context = {'urls': urls, 'search_term': search_term}
-        return render(request, 'BetterCart/ingredient_search_results.html', context)
+        search_string = request.POST.get('search_term', '')
+        results = []
+        with open('BetterCart/final_substitution.csv') as csvfile:
+            reader = csv.reader(csvfile)
+            next(reader)  # skip header row
+            for row in reader:
+                if search_string.lower() in row[1].lower():
+                    results.append(row[3])
+        return render(request, 'BetterCart/ingredient_search_results.html', {'results': results})
     else:
-        return render(request, 'BetterCart/ingredient_search_form.html')
+        return render(request, 'BetterCart/add_grocery_item.html')
