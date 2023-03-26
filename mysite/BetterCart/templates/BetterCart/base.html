@@ -1,36 +1,66 @@
+<!DOCTYPE html>
 <html>
-
 <head>
-    {% block sidebar_block %}
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <style>
-        .sidebar{
-            height:100%;
-            width:200px;
-            position: fixed;
-            z-index:1;
-            top:0;
-            left:0;
-            background-color:#2C2C2C;
-            overflow-x:hidden;
-            padding-top:15px;
+        /* Set the height of the wrapper to 100% of the viewport */
+        .wrapper {
+            min-height: 100vh;
+            position: relative;
         }
-        .sidebar a{
-            padding:6px 8px 6px 16px;
-            text-decoration: none;
-            font-size:25px;
-            color: #818181;
-            display:block;
+
+        /* Set the padding bottom of the wrapper to accommodate the height of the footer */
+        .wrapper::after {
+            content: "";
+            display: block;
+            height: 50px; /* Set this to the height of your footer */
         }
-        .sidebar a:hover{
-            color:#f1f1f1
-        }
-        .main{
-            margin-left:200px;
-            padding: 0px 10px;
+
+        /* Set the position and bottom of the footer to stick to the bottom of the viewport */
+        .footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 50px; /* Set this to the height of your footer */
         }
     </style>
-    {% endblock %}
-    <title>Better Cart</title>
 </head>
+<body class="container">
+    <div class="wrapper">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">BetterCart</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Features</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Pricing</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#">Disabled</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
 
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                {% block content %}{% endblock %}
+            </div>
+        </div>
+
+        <div class="footer">
+            {% include 'BetterCart/footer.html' %}
+        </div>
+    </div>
+</body>
 </html>
