@@ -52,8 +52,18 @@ def ingredient_search(request):
             reader = csv.reader(csvfile)
             next(reader)  # skip header row
             for row in reader:
-                if search_string.lower() in row[1].lower():
-                    results.append(row[3])
+                if search_string.lower() in row[1].lower() and row[1] not in results:
+                    results.append(row[1])
         return render(request, 'BetterCart/ingredient_search_results.html', {'results': results})
     else:
         return render(request, 'BetterCart/add_grocery_item.html')
+
+def recommendations(request, search_term):
+    results = []
+    with open('BetterCart/final_substitution.csv') as csvfile:
+        reader = csv.reader(csvfile)
+        next(reader)  # skip header row
+        for row in reader:
+            if search_term.lower() in row[1].lower():
+                results.append(row[3])
+    return render(request, 'BetterCart/recommendations.html', {'results': results})
