@@ -1,5 +1,6 @@
 import csv
 from django.db import models
+import sys
 
 # Create your models here.
 from django.db import models
@@ -17,29 +18,21 @@ class GroceryItem(models.Model):
     def __str__(self):
         return self.item_name
 
-
-class nutritionFacts(models.Model):
-    item_name = models.CharField(max_length=255)
-    serving_size = models.CharField(max_length=20)
-    calories = models.IntegerField(max_length=20)
-    total_fat = models.CharField(max_length=20)
-    carbs = models.CharField(max_length=20)
-    protein = models.CharField(max_length=20)
+class nutriScore(models.Model):
+    name = models.CharField(max_length=255)
+    score = models.CharField(max_length=20)
 
     def __str__(self):
-        return self.item_name
+        return self.name
+
 
 
 def load_data_from_csv():
-    with open('nutrition.csv', 'r') as csvfile:
+    with open('string_nutriscore.csv', 'r') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            nutrition = nutritionFacts(
-                item_name=row['name'],
-                serving_size=row['serving_size'],
-                calories=row['calories'],
-                total_fat=row['total_fat'],
-                carbs=row['carbohydrate'],
-                protein=row['protein']
+            nutrition = nutriScore(
+                name=row['\ufeffstr'],
+                score=row['nutri_scores']
             )
             nutrition.save()

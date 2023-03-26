@@ -1,9 +1,25 @@
+{% extends 'BetterCart/base.html' %}
+
 {% block content %}
-    <h1>Ingredient Search</h1>
-    <form method="post" action="{% url 'ingredient_search' %}">
-        {% csrf_token %}
-        <label for="search_term">Search for an ingredient:</label>
-        <input type="text" id="search_term" name="search_term" required>
-        <input type="submit" value="Search">
-    </form>
+    <div class="container">
+        <div class="row justify-content-center mt-5">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h1 class="text-center">Ingredient Search</h1>
+                    </div>
+                    <div class="card-body">
+                        <form method="post" action="{% url 'ingredient_search' %}">
+                            {% csrf_token %}
+                            <div class="form-group">
+                                <label for="search_term">Search for an ingredient:</label>
+                                <input type="text" id="search_term" name="search_term" class="form-control" required>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-block">Search</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 {% endblock %}
