@@ -1,4 +1,4 @@
-# <img width="222" alt="image" src="https://user-images.githubusercontent.com/76056263/227760375-4615c4a2-78c6-439e-a06f-8e3fd0bf81ab.png">
+# ![image](https://user-images.githubusercontent.com/76056263/227760490-636bac87-54ab-4b6a-b5b3-2ce5e7d347e2.png)
 
 BetterCart is an intelligent grocery assistant that instantly provides healthier alternatives to items in your shopping cart! Simply add an item to your shopping cart and BetterCart will utilize its expansive database to provide alternative recommendations with higher nutritional value.
 
