@@ -2,13 +2,14 @@
 
 {% block content %}
 <div class="container">
-    <h1 align = "center ">Recommendations</h1>
+
+    <h1 align="center">Recommendations</h1>
     <br>
+
     <table class="table table-striped">
         <thead>
             <tr>
-                <th>Your Choice</th>
-                <th style=" text-align: center">Action</th>
+                <th colspan="2" style="text-align: center">Your Choice</th>
             </tr>
         </thead>
         <tbody>
@@ -18,7 +19,7 @@
                 <td class="text-center">
                     <form method="post" action="{% url 'add_to_cart' %}">
                         {% csrf_token %}
-                        <input type="hidden" name="item_name" value="{{ result }}">
+                        <input type="hidden" name="item_name" value="{{ results.0 }}">
                         <button type="submit" class="btn btn-primary">Add to Cart</button>
                     </form>
                 </td>
@@ -26,12 +27,12 @@
             {% endif %}
         </tbody>
     </table>
+
     {% if results|length > 1 %}
     <table class="table table-striped">
         <thead>
             <tr>
-                <th>Our Recommendations</th>
-                <th style=" text-align: center">Action</th>
+                <th colspan="2" style="text-align: center">Our Recommendations</th>
             </tr>
         </thead>
         <br>
