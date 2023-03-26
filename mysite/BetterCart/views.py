@@ -80,17 +80,25 @@ def recommendations(request, search_term):
                 'score': nutrition.score
             }
         context = []
+        overall =[]
         for row in reader:
+            info = []
             if search_term.lower() in row[1].lower():
+                info.append(row[3])
                 results.append(row[3])
                 try:
                     nutrition = nutriScore.objects.get(name=row[3])
                 except nutriScore.DoesNotExist:
                     nutrition = None
                 if nutrition:
+                    info.append(nutrition.score)
                     context.append(nutrition.name + str(": ")+nutrition.score)
-
-    return render(request, 'BetterCart/recommendations.html', {'results': results,'context2':context2,'context':context})
+            overall.append(info)
+    overall = [x for x in overall if x != []]
+    print("results", overall[0][1])
+    print("context2", context2["score"])
+    return render(request, 'BetterCart/recommendations.html', {"overall": overall, 'results': results, 'context2': context2})
+    # return render(request, 'BetterCart/recommendations.html', {'results': results,'context2':context2,'context':context})
 
 
 def add_to_cart(request):
