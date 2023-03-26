@@ -7,8 +7,6 @@ from .scraper import scrape_foodsubs
 import csv
 
 
-
-
 def index(request):
     return HttpResponse("Hello, world. You're at the polls index.")
 
@@ -58,11 +56,13 @@ def ingredient_search(request):
     else:
         return render(request, 'BetterCart/add_grocery_item.html')
 
+
 def recommendations(request, search_term):
     results = []
     with open('BetterCart/final_substitution.csv') as csvfile:
         reader = csv.reader(csvfile)
         next(reader)  # skip header row
+        results.append(search_term.lower())
         for row in reader:
             if search_term.lower() in row[1].lower():
                 results.append(row[3])
