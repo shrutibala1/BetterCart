@@ -1,10 +1,9 @@
-
 {% block content %}
     <h1>Search Results</h1>
     {% if results %}
         <ul>
         {% for result in results %}
-            <li>{{ result }}</li>
+            <li><a href="{% url 'recommendations' result %}">{{ result }}</a></li>
         {% endfor %}
         </ul>
     {% else %}
