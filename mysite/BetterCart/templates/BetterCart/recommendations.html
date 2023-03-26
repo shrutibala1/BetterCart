@@ -3,7 +3,13 @@
     {% if results %}
         <ul>
         {% for result in results %}
-            <li>{{ result }}</li>
+            <li>
+                <form method="post" action="{% url 'add_to_cart' %}">
+                    {% csrf_token %}
+                    <input type="hidden" name="item_name" value="{{ result }}">
+                    <button type="submit">{{ result }}</button>
+                </form>
+            </li>
         {% endfor %}
         </ul>
     {% else %}

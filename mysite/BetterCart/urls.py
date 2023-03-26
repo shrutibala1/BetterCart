@@ -11,5 +11,7 @@ urlpatterns = [
     path('BetterCart/ingredient_search_result/', views.addItemFilledView, name='add-item-filled'),
     path('BetterCart/ingredient_search/', views.ingredient_search, name='ingredient_search'),
     path('recommendations/<str:search_term>/', views.recommendations, name='recommendations'),
+    path('clear-list/', views.clear_list, name='clear_list'),
+    path('BetterCart/add_to_cart/', views.add_to_cart, name='add_to_cart'),
 
 ]
