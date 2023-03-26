@@ -10,6 +10,7 @@
         </thead>
         <tbody>
             {% if results %}
+                <p>Nutriscores {{ context }}</p>
                 {% for result in results %}
                     <tr>
                         <td><a href="{% url 'recommendations' result %}">{{ result }}</a></td>

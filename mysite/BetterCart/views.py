@@ -49,10 +49,17 @@ def ingredient_search(request):
         with open('BetterCart/final_substitution.csv') as csvfile:
             reader = csv.reader(csvfile)
             next(reader)  # skip header row
+            context=[]
             for row in reader:
                 if search_string.lower() in row[1].lower() and row[1] not in results:
                     results.append(row[1])
-        return render(request, 'BetterCart/ingredient_search_results.html', {'results': results})
+                    try:
+                        nutrition = nutriScore.objects.get(name=row[1])
+                    except nutriScore.DoesNotExist:
+                        nutrition = None
+                    if nutrition:
+                        context.append(nutrition.name + str(": ")+nutrition.score)
+        return render(request, 'BetterCart/ingredient_search_results.html', {'results': results,'context':context})
     else:
         return render(request, 'BetterCart/add_grocery_item.html')
 
@@ -72,7 +79,7 @@ def recommendations(request, search_term):
                 'nutrition': nutrition.name,
                 'score': nutrition.score
             }
-
+        context = []
         for row in reader:
             if search_term.lower() in row[1].lower():
                 results.append(row[3])
@@ -81,10 +88,7 @@ def recommendations(request, search_term):
                 except nutriScore.DoesNotExist:
                     nutrition = None
                 if nutrition:
-                    context = {
-                        'nutrition': nutrition.name,
-                        'score': nutrition.score
-                    }
+                    context.append(nutrition.name + str(": ")+nutrition.score)
 
     return render(request, 'BetterCart/recommendations.html', {'results': results,'context2':context2,'context':context})
 

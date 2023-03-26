@@ -37,9 +37,13 @@
         </thead>
         <br>
         <tbody>
+            <p>Your choice {{ context }}</p>
             {% for result in results|slice:"1:" %}
             <tr>
                 <td>{{ result }}</td>
+                
+                {% with count=count|add:"1" %}
+                {% endwith %}
                 <td class="text-center">
                     <form method="post" action="{% url 'add_to_cart' %}">
                         {% csrf_token %}
