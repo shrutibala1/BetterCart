@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
-from .models import GroceryItem
+from .models import GroceryItem, nutritionFacts
 import requests
 from bs4 import BeautifulSoup
 from .scraper import scrape_foodsubs
@@ -51,3 +51,4 @@ def ingredient_search(request):
         return render(request, 'BetterCart/ingredient_search_results.html', context)
     else:
         return render(request, 'BetterCart/ingredient_search_form.html')
+
