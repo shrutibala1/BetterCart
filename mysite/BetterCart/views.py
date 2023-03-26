@@ -67,3 +67,16 @@ def recommendations(request, search_term):
             if search_term.lower() in row[1].lower():
                 results.append(row[3])
     return render(request, 'BetterCart/recommendations.html', {'results': results})
+
+
+def add_to_cart(request):
+    if request.method == 'POST':
+        item_name = request.POST.get('item_name', '')
+        GroceryItem.objects.create(item_name=item_name)
+        return redirect('/../../')
+    else:
+        return redirect('/../../')
+
+def clear_list(request):
+    GroceryItem.objects.all().delete()
+    return redirect('/../../')
