@@ -13,7 +13,6 @@ def index(request):
 
 def display_grocery(request):
     items = GroceryItem.objects.all()
-    print("in function")
     return render(request, "BetterCart/grocerylist.html", {"items": items})
 
 
@@ -62,6 +61,9 @@ def ingredient_search(request):
         return render(request, 'BetterCart/ingredient_search_results.html', {'results': results,'context':context})
     else:
         return render(request, 'BetterCart/add_grocery_item.html')
+
+def about(request):
+    return render(request, 'BetterCart/about.html')
 
 
 def recommendations(request, search_term):

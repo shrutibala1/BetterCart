@@ -13,5 +13,6 @@ urlpatterns = [
     path('recommendations/<str:search_term>/', views.recommendations, name='recommendations'),
     path('clear-list/', views.clear_list, name='clear_list'),
     path('BetterCart/add_to_cart/', views.add_to_cart, name='add_to_cart'),
+    path('about/', views.about, name='about')
 
 ]

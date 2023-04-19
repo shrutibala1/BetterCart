@@ -2,7 +2,7 @@
 
 {% block content %}
     <h1>Ingredient Search</h1>
-    <form method="post" action="{% url 'ingredient_search' %}"  >
+    <form method="post" action="{% url 'ingredient_search' %}">
         {% csrf_token %}
         <label for="search_term">Search for an ingredient:</label>
         <input type="text" id="search_term" name="search_term" required>
